@@ -1,0 +1,1 @@
+../../../fastText/fasttext supervised -input ../data/data_final/1_train_neg_necop.txt -output ../models/final/1_train_neg_necop_recprec30 -autotune-validation ../data/data_final/1_validation_neg_necop.txt -autotune-duration 7200 -verbose 3 -autotune-modelsize 34M -autotune-metric recallAtPrecision:30:__label__NEGATIVO

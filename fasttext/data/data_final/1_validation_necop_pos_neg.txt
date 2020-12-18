@@ -1,0 +1,661 @@
+__label__POSITIVO no necesita nada por el momento lo asiste su hija natalia esta muy contento con la gestion se lo nota una persona muy bien muy activa y conversadora 
+__label__NEGATIVO la senora indica que ya pidio y tambien reclamo la caja de alimentos que reparte accion social desde accion social le indican que el pedido ya ha sido registrado aun no le llega 
+__label__POSITIVO la senora nelida malatesta hoy se encontraba mejor de animo 
+__label__POSITIVO se realizan llamados periodicamente para acompanar y charlar no precisa de otras cosas 
+__label__NEGATIVO hable con zule y ella esta bien estaba un poco triste x que operaron a su perrita pero todo salio bien 
+__label__POSITIVO mantuvimos una linda y larga conversacion mas de _digit_ hablamos de varios temas infancia familia anecdotas etc etc gregorio siempre se manifiesta en forma positiva y es muy alegre 
+__label__POSITIVO leticia esta bien hablamos de dios de maria de recetas de cocina es muy amable me encantaria conocerla 
+__label__POSITIVO ---hablo con guillermo esposo de am me indica que la am fue a pagar las expensas; conversamos un rato me comenta que ellos estan muy bien esta todo tranquilo hace mencion de que todavia no pudo darse la vacuna de la gripe ofrezco averiguar si hay disponibilidad y donde puede ser luego hablo un momento con la am y me confirma que ella y su marido se encuentran bien agradece el contacto ---llamo a la direccion de atencion primaria al _digit_-_digit_ - no atienden
+__label__POSITIVO se hablo esta mejor el hijo sin fiebre se va a comunicar x la caja - para ir a retirarla
+__label__NEGATIVO se encuentra un poco triste por la situacion 
+__label__POSITIVO _digit_ _digit_- angela bien ayer fue al banco y no le pagaron la jubilacion tiene que ir otro dia le dieron una clave _digit_ _digit_- angela esta bien su hija le hizo las compras esta lavando con lavandina y el resto pasando un repasador con lavandina a todo
+__label__NEGATIVO me continuo comunicando con la sra graciela via watsap se encuentra bien haciendose estudios neurologicos y continuando con su terapia de manera virtual  ante cualquier urgencia se comunicara conmigo le ofreci los cursos y talleres virtuales pero no esta interesada por el momento de todas maneras cuenta ya con la informacion 
+__label__NEGATIVO esta muy preocupado por la situacion de la pandemia 
+__label__NEGATIVO esta bien aunque un poco triste y bajoneadahice la encuesta
+__label__POSITIVO _digit_-_digit_-nos comunicamos por ws pues estaba esperando el comunicar con su hijo que esta en el exterior _digit_-_digit_- _digit_ _digit_ bien de animo cansada pues se dedico a limpiar por demas su dpto hablamos hasta las _digit_ _digit_-
+__label__POSITIVO se encuentran bien de animo sigo llamando
+__label__POSITIVO _digit_ _digit_- angela bien va almorzar canelones con bolonenesa las llamadas se nos corta todo el tiempo hay interferencia yo le comente que me pasa con otra sra que vive por la zona ella me pregunto el nombre le dije resultaron ser amigas del centro de jubilado y me conto algunas acnedotas de sus reuniones muy divertidas _digit_ _digit_- angela bien preparando masa de pizzas me cuenta que tiene hernia iatal leve toma omeprazol  en el esofago al comer alimentos secos arroz medialunas etc 
+__label__POSITIVO se encuentra bien eligio cursos de idiomas para hacer y le voy a mandar los ejercicios cognitivos 
+__label__POSITIVO en el llamado de hoy se encuentra bien 
+__label__POSITIVO bien de animo muy contenta pues hoy le avisaron que el viernes recibe su caja de alimentos 
+__label__POSITIVO se encuentra bien de salud y sin necesidades se pacta llamado para dentro de unos dias 
+__label__NEGATIVO charlamos un poco estaba por cocinar esta preocupada por su marido
+__label__POSITIVO llame a irene  ella esta bien de muy buen animo y me consulto la manera de tramitar una receta que le faltaba asi que me comunique con atencion primaria y ya fue gestionado 
+__label__POSITIVO se encuentran bien de animo esperando que esto pase pronto para poder estar con la familia sigo llamndo
+__label__POSITIVO se encuentra bien mirando television esta de buen animo
+__label__POSITIVO todo en orden
+__label__POSITIVO se encuentra bien  agradece el llamadosaludos
+__label__POSITIVO charle con ella esta mas tranquila hoy salio ella a comprar
+__label__POSITIVO la senora beatriz dib se encuentra bien 
+__label__NEGATIVO me vuelve a llamar para que por favor no me olvide de ella y que mi llamados no sean mentirosos quede en que yo llamare manana lunes a salud y psicologia  esta muy angustiada hace un dia que no come y esta en la cama  por favor revean los casos particulares  no la estoy pudiendo ayudar y me siento en falta con ella 
+__label__POSITIVO _digit_ _digit_- maria del carmen bien ordenando los muebles de su hija _digit_ _digit_- maria del carmen bien tratando de ver como ayudar a su hija
+__label__POSITIVO se encuentra muy bien
+__label__NEGATIVO me comento que esta angustiada por lo que pasa en los geriatricos no entiende como pueden abandonarlos ella trabajo cuidando a gente mayor luego hablo de la politica culpando al gobierno de todo lo que pasando y que este gobiernos es de chorros 
+__label__POSITIVO la senora ana slaukin se encuentra bien 
+__label__POSITIVO se siente bien esta tranquilo y muy agradecido 
+__label__POSITIVO leticia se encuentra bien por suerte hablamos de todo un poco hoy un poco mas de comidas y recetas 
+__label__POSITIVO me he contactado con ella tanto el dia _digit_ de abril como en el dia de la fecha  no requiere asistencia previa  muy comunicativa 
+__label__POSITIVO la senira flores ines se encuentra bien 
+__label__POSITIVO hoy hable con olga un rato me comento que estaba bien quedamos en hablar en la semana
+__label__NEGATIVO hoy _digit_ _digit_ hs hablamos un rato por telefono estaba algo preocupada pues su hijo no puede regresar al trabajo aun por pandemia  esta ok de salud y de animo dice que hay dias que siente bronca y otroas esta bien  hoy salio a arreglar un celular pero con todas las medidas de prevencion sanitaria y dice que no le gusta salir porque despues tiene que lavar todo  tiene rutinas como gym hacer la comida y jugar rummy o ver tv 
+__label__POSITIVO el adulto mayor se encunetra acompanado y de byen animo -
+__label__NEGATIVO primer contacto telefonico - en lineas generales olga se encuentra bien le genera angustia el no poder ver a sus hijos y nietos pero por medio de contacto telefonico y videollamadas transita mejor este periodo de aislamiento  agradecio al municipio por realizar este programa 
+__label__POSITIVO muy buen estado de animo
+__label__POSITIVO se encuentra bien
+__label__POSITIVO buen dia informo que los adultos mayores estan muy bien contenidos hablamos diariamente o dia por medio gracias
+__label__POSITIVO esta bien por suerte
+__label__POSITIVO con gusto recibe mis lamados
+__label__NEGATIVO el am se encuentra en general en buen estado pero acaba de cambiar su medicacion para los huesos por lo cual me comento que esta debil y tiene que descansar hablamos un ratito porque estaba acostada 
+__label__POSITIVO la llame para ver como estaba y hable con ella y su esposo y estan todos bien
+__label__POSITIVO mirta y esposo estan bien ayer estaba hablando con su hermana por eso no logre comunicarme todos bien llevando la cuarentena
+__label__POSITIVO hablamos via whatsapp animada
+__label__NEGATIVO hoy llame al servicio de atencion primaria para averiguar si pueden ir a vacunar a myrna y a su marido al domicilio me dijeron que no ya que tenia que la persona tenia que tener un caso extremo  llame a myrna para darle la noticia y se puso muy mal 
+__label__POSITIVO me dijo que por el momento no necesitan nada quedamos que lo volvia a llamar en _digit_ dias 
+__label__POSITIVO en general esta bien 
+__label__POSITIVO el am se encuentra de buen animo y acompanado x su esposa y familia retirara los alimentos x ipolito irigoyen _digit_
+__label__POSITIVO el am flores ines dni _digit_ se encuentra muy bien ya le avise a la senora flores ines  que hoy me comunicaron por el mail de voluntarios  que en el transcurso de la semana recibira el bolson de alimentos solicitado 
+__label__POSITIVO todo en orden
+__label__POSITIVO  todo tranquilo hace palabras cruzadas y gimnasia
+__label__NEGATIVO pidio arreglos de telecom y le desconectaron cablevision estaba enojada y preocupada porque ella se entretiene con esto le di un telefono para llamar cablevision y le pedi que me cuente como le fue por whatsapp todo ok
+__label__POSITIVO tachian ana esta muy bien animo porque con el tiempo busca distraerse cocinando viendo peliculas o leyendo libros de filosofia por el momento no esta interesada en recibir ayuda pero espera un llamado la siguiente semana por si en algun momento necesita ser asistida
+__label__POSITIVO hablaremos la proxima semana esta bien y agradecida
+__label__POSITIVO se encuentra bien
+__label__POSITIVO animada
+__label__POSITIVO todo bien
+__label__POSITIVO ultimo contacto me cuenta la am que la semana pasada le dijeron que habia salido seleccionada en un sorteo de una tablet no sabia si esto era real y me queria llamar pero no tenia mi contacto llamo al _digit_ y le confirmaron que era cierto el dia miercoles _digit_ _digit_ se la llevaron a la casa y sacaron fotos publicitarias esta muy contenta y quiere agradecer la verdad que le vino muy bien le comento que por una cuestion laboral no voy a poder continuar con el voluntariado y que le van a asignar otra persona; me agradece por toda mi disposicion y esta contenta por mi 
+__label__POSITIVO hoy volvi a hablar con manuel estuvimos largo rato conversando se encuentra bien y me agradecio el llamado
+__label__NEGATIVO no se habia levantado no lo dejan salir a comprar cigarrillos
+__label__POSITIVO esta bien muy entusiasmado leyendo un libro en aleman
+__label__POSITIVO siguen bien
+__label__POSITIVO marta se encuentra bien entretenida tejiendo bufandas y cocinando no necesita que le hagamos ningun pedido ya que su hijo lo asiste en las compras asi como tambien con los medicamentos 
+__label__POSITIVO se encuentra con muy buen estado de animo y contenida por su familia realiza artesanias y yoga en su hogar agradece el contacto
+__label__NEGATIVO _digit_ _digit_am muy buena recepcion de parte de la sra erna tenia muchas ganas de hablar abordamos diversos temas de actualidad y lo cual llevo a contarme del hartazgo por la cuarentena y la imposibilidad de reunirse con sus familiares lo cual me habia dicho en la primera charla le comente de las diversas actividades y cursos pero no le interesa comento que antes habia ido pocas veces al grupo de jubilados en florida ya que le gusta mucho jugar a las cartas pero aparentemente son muy cerrados y no dejan que otros se integren y por eso dejo de ir se estaba preparando puchero para almorzar y quedamos en hablar semana proxima 
+__label__POSITIVO se encuentra bien junto a su flia y agradece el llamadosaludos
+__label__POSITIVO se hablo esta bien estaba en el jardin
+__label__NEGATIVO me atendio isabel hoy estaba mucho mejor q la otra vez en la q estaba medio deprimida hoy la note mucho mas animada x suerte y x lo pronto sin necesidades 
+__label__POSITIVO la senora malatesta nelida se encuentra bien le ofreci los talleres de la secretaria de deportes y de la secretaria de desarrollo social y me contesto que la anote en yoga 
+__label__POSITIVO francisco savino solicita que vuelva a llamarlo el miercoles _digit_ a las _digit_ hs aproximadamente consulto por entrega de receta medica y compra de remedios 
+__label__POSITIVO esta bien
+__label__POSITIVO charlamos con alfredo estan bien hicimos la encuesta 
+__label__POSITIVO se encuentramuy bien segun su hija con la que hablo via whats app y nos hicimos un poco amigas virtuales  muy agradecida por el llamado y la preocupacion
+__label__POSITIVO esta bien
+__label__POSITIVO la senora beatriz dib se encuentra bien 
+__label__NEGATIVO comenta que esta en cama con reposo obligatorio dado por la medica refiere mucho dolor de cuerpo problemas en la columna que le adormecen brazos y piernas dificultad motriz solicito la caja de alimentos 
+__label__NEGATIVO problema con las protesis tiene dolores pero toma calmantes va a visitar a su hija dia por medio y esta preocupado por ella sin embargo se encuentra bien o como el dice vivo
+__label__POSITIVO hablamos un rato se encuentra bien le comento sobre los llamados falsos que ocurrieron a algunos am me comenta que le gustaria ayudar de alguna manera aportar con algun lugar quedo en averiguarle donde puede hacerlo 
+__label__POSITIVO nidia y leon se encuentran bien de animo me avisaron que no requieren ningun ninguna compra de alimentos ni medicamentos ya que su hija las asiste con eso nidia me conto que esta entretenida tejiendo y al final decidio no sumarse a las clases de dibujo que brinda el municipio porque prefiere que sea presencial por otro lado leon esta preparando una estufa para su otra hija 
+__label__NEGATIVO hable con rosa me conto que esta con unos tramites de ioma porque tiene pendientes unos documentos a entregar meppes y tiene que ir todas las semanas a ver si lo puede resolver todos los martes va a hacerse quimioterapia me dice que la puedo llamar cuando quiera que si esta me atiende 
+__label__NEGATIVO comenta que su hijo esta internado por covid positivo es el que vive con ella refiere que  esta bien y que se ocupan de el  tambien se pusieron en contacto con ella por si tenia algun sintoma ella esta bien fisica y animicamente muy contenida y controlodase le hara un seguimiento mas cercano peto me dice que todos se estan ocupando
+__label__POSITIVO se converso cortamente estaba lavando la cocina  no le interesa por el momento el programa de ajedrez esta muy bien 
+__label__POSITIVO _digit_ _digit_ el telefono da ocupado de manera constante voy a intentar mas tarde _digit_  _digit_ hable con la hija analia me conto que la senora vive con su marido me dijo que ella la asiste todo el tiempo agradecio el llamado pero no quiso responder la encuesta y tampoco quiso dar su telefono _digit_ _digit_ hable con analia la hija ella necesitaba vacunar a sus papas de _digit_ anos y me ocupe de hacer la gestion para que el dia lunes vayan de atencion primaria a vacunarlos se encuentra bien y muy agradecidos con el servicio que estamos dando 
+__label__NEGATIVO me vuelvo a comunicar y les paso el numero que tenemos en el protocolo para consultas de salud para que pueda ver si le dan alguna forma o lugar cercano para ser atendida por su dolor de pierna 
+__label__POSITIVO hable con leti ella esta bien me conto que tuvo que operar a su perrita pero todo ok por suerte
+__label__POSITIVO se encuentra bien vive en la casa de mayores del padre tissera en un departamento individual es muy creyente asi que hablamos de jesus y de maria forma parte de la legion de maria y tenemos mucho en comun ya que mi tia tambien formaba parte de le legion es muy simpatica ya me encarine 
+__label__POSITIVO me dijo que si mas temprano era yo la que habia hablado con ella ya que la llamaron antes haciendose pasar por mi que no le decia mi nombre  que le hablaba del cajero de cambio de billetes que habia tiempo solo hasta manana que si querian que yo se los valla a cambiar ya que tenia que ir justo al cajero que se asusto que por suerte no le dijo ningun dato mas le dije que no hable cosas personales con nadie que yo siempre me voy a presentar con mi nombre y siempre la voy a saludar por el suyo que le decia que iban a cambiar los billetes de _digit_ me conto que estuvo conversando un rato largo con esa persona y que pensando que era yo le conto que se habia caido un arbol aplasto un auto y fue defensa civil conversamos un rato pero estaba medio nerviosa con el tema de el llamado anterior asi que no quise molestarla mucho le volvi a explicar que yo siempre me voy a identificar con mi nombre que la voy a saludar por su nombre y le di mi numero de celular que es de donde la llamo para que cuando llamen haciendose pasar por alguien de ayuda sepa identificar que no era yo y que pueda quedarse lo mas tranquila posible 
+__label__POSITIVO hable con el marido ella salio a comprar se cuidan estan bien no manejan plataforma no hacen actividades 
+__label__POSITIVO se encuentran bien charlamos un rato soluciono lo de la enfermera quedamos en contactarnos 
+__label__POSITIVO se encuentra en buen estado de animo 
+__label__POSITIVO en la fecha me comunico con beatriz esta bien pero no consiguio vacuna para el marido llamo al hosp llama y nada
+__label__NEGATIVO senora que vive sola hablamos fluidamente ya que le esta costando esta cuarentena y a veces se deprime tiene asistencia psicologica una vez por semana agradecida con nuestro trabajo de voluntariado a medida que han pasado los dias se siente mas animada participa de los talleres virtuales del centro  y eso la anima ya que los dias no le parecen tan largos tambien cuando me conto que el living es su lugar favorito de sus casa la anime a mudarse al living y desde alli pasar la mayor parte del tiempo ya que es un lugar luminoso amplio y alli le sugeri llevar su computadora para participar de las actividades los dias de sol tambien le he sugerido estar al sol que energiza muy agradecida y es un encanto de persona 
+__label__POSITIVO todo muy bien muy agradecida por los llamados
+__label__POSITIVO vive con su marido estan muy bien contenidos cumpliendo con la cuarentena y tienen asistencia de sus hijos 
+__label__POSITIVO _digit_ _digit_ _digit_ - llamo al _digit_-_digit_ vuelvo a hablar con nancy espoa de am siguen bien por suerte de momento siguen sin necesitar asistencia consulto si carlos sigue sin vacunarse sigue sin reitero que en caso de que este interesado podria intentar coordinar para que vayan a su casa ella dice que no cree que quiera porque no es de tomar ni una bayaspirina como veo que esta todo ok les deseo buena tarde los llamare la semana que viene y cortamos 
+__label__POSITIVO se encuentran bien
+__label__POSITIVO todo bien sin novedades
+__label__POSITIVO hablamos del frio pero se siente bien 
+__label__POSITIVO se encuentra muy bien
+__label__POSITIVO _digit_ _digit_ muy bien de animo tiene esta semana pendiente un tramite en pami por recetas medicas 
+__label__NEGATIVO me comunique sigue bien aunque con la problematica de siempre su vivienda 
+__label__NEGATIVO hable con la esposa elena beckman esta angustiada por una situacion de violencia vivida con horacio es su ex marido que esta viviendo en su casa tiene un departamento en el mismo edificio pero no se quiere ir a su casa esta instalado en el departamento de elena la semana pasada dice elena que le dijo que se vaya a su casa y el se enojo y le hundio los dedos en los ojos no se como se maneja esta situacion si hay que dar intervencion al area de violencia de genero 
+__label__POSITIVO _digit_;_digit_ hs hablamos me conto que su hija le pudo pagar las facturas que se vacuno en el anselmo marini y que las chicas la atendieron re bien que vive con una prima que tiene _digit_ anos consiguio deliveri de verduleria  yo le brinde mi celular y ella me paso el de ella _digit_ 
+__label__POSITIVO la conversacion fue fluida se lo nota bien de animo se le informo el calendario de vacunacion
+__label__POSITIVO esta muy bien y su familia tambien
+__label__POSITIVO se encuentra bien y tiene quien lo asista 
+__label__NEGATIVO reclama lavandina para limpiar los pasillos ya recibieron bolsa de alimentos en barrio _digit_ de mayo lepoldo lugones y valle grande
+__label__NEGATIVO la am me comenta que hoy se levanto mal con el humor bajo y sin ganas de estar levantada pero que igual se obliga a pensar en otra cosa conversamos un poco sobre varios temas y hacia el final de la llamada se la nota mas contenta 
+__label__POSITIVO _digit_ _digit_ hs hable con su hija mariela palomo que es con quien vive y agradece el llamado y deja lugar para asistir a otra persona  ellas se encuentran bien 
+__label__POSITIVO * en cada comunicacion la senora carmela  responde con mucho animo y gratitud para con todos  cortamos la comunicacion porque ya comenzaba la novela ; 
+__label__POSITIVO se encuentra muy bien tanto ella como su esposo hoy se fue a hacer unos estudios 
+__label__POSITIVO mimi asi le gusta q la llamen se encuentra muy bien hablamos bastante nos reimos espera mi llamado cada semana dice  
+__label__POSITIVO vive en frente de casa y los llamo todos los dias si necesitan algo se los acerco
+__label__POSITIVO hable con leticia por suerte se encuentra bien de salud y de animo 
+__label__POSITIVO se la llamo nuevamente para hacerle un seguimiento con respecto a su estado emocional y de salud se encuentra muy buen en ambos sale a caminar un rato para despejarse y cuando hace buen clima debe sacar turno con el cardiologo por las pastillas para la hipertension que se le estan acabando se le realizo la encuesta pedida desde el voluntario 
+__label__POSITIVO todo muy bien sin problemas
+__label__POSITIVO patricia dice que su mama angela esta bien agradece el llamado y saluda a todo el equipo de voluntarios
+__label__POSITIVO se encuentra bien de animo su hija pudo sacarle turno al banco todo bien
+__label__POSITIVO todo bien ya se dio la vacuna indique el uso del barbijo que es obligatorio y si tiene algun reclamo que puede hacer uso del _digit_ re agendamos para hablar el _digit_ _digit_ 
+__label__POSITIVO bien de salud llamo a la uap lavalle le dijeron que tenia que venir _digit_ _digit_ de la manana o le indicaron el servicio de prevenir y le tomaron todos los datos para ir a su casa re agende para hablar el jueves _digit_
+__label__POSITIVO maria del carmen bien salio a pagar los impuestos y otros servicios
+__label__POSITIVO me pude comunicar con salvador y esta muy bien
+__label__POSITIVO maria del carmen bien muy ansiosa organizando la apertura del negocio indumentaria manana
+__label__POSITIVO hoy llame a maria amalia y me comento que estaba bien que su hija se encarga de todas sus cosas y quedamos que la volvia a llamar en _digit_ dias 
+__label__POSITIVO el adulto mayor se encuentra en buen estado del salud y no necesita ayuda por el momento se encuentra acompanado por la familia -
+__label__POSITIVO la sra se encuentran bien  hablamos mucho se la encuentra muy bien animicamente
+__label__POSITIVO se encuentra bien
+__label__POSITIVO patricia me envio un ms de parte de la sra angela su agradecimiento al sistema de voluntarios me cuenta que ya compro los medicamentos con la receta virtual
+__label__NEGATIVO la senora ines malatesta hoy se cayo y sigue con dolor de columna tomo un tafirol y haria reposo nuevamente pero en terminos generales esta bien solo fue el golpe 
+__label__POSITIVO todo bien recibio la tablet esta averiguando para contratar servicio de internet buscando la opcion mas economica 
+__label__POSITIVO hable con el esposo la sra salio hasta la esquina a acompanar a su hijo a la parada del colectivo el sr me comunico que se encuentran bien 
+__label__POSITIVO hola hoy me comunique con el senor francisco se encuentra bien acompanado de su senora la cual se encontraba internada por un accidente y ya le dieron el alta quede de contactarlo para seguir hablando 
+__label__POSITIVO _digit_ _digit_ _digit_ - el sr benito se encuentra muy bien vive con su esposa y esta asistido por su familia indico que no hace falta que lo siga llamando
+__label__POSITIVO se la escuchaba bien tranquila 
+__label__NEGATIVO hable con elena estaba bien pero se siente agobiada por el encierro por momentos fallecio una hermana de roberto elina hace _digit_ dias de cancer de estomago  asi que estaban un poco tristes le dije estare rezando por ella y toda la familia hablamos de lo dificil de la situacion pero que de todas maneras hay que aguantar 
+__label__NEGATIVO debido al cigarrillo  tiene un eficema pulmonar bronquitis y suele enfermarse en invierno necesita darse la vacuna antigripal y la neumococo tanto el con la mujer esa es su principal preocupacion miedo  no pudieron en la farmacia que tienen cerca y tienen miedo de salir 
+__label__POSITIVO el esposo me comento que le dieron el alta por covid-_digit_ estan bien
+__label__NEGATIVO nuevamente me atendio isabel la esposa de roberto ya que el habia salido a hacer unas compras ella me conto que estaba un poco entristecida por estar mucho tiempo en la casa no tienen hijos ni nietos solo _digit_ sobrino que no vive cerca por lo que no se siente del todo contenida dialogamos un rato largo para levantar un poco el animo y acordamos volver a hablar a mitad de semana para saber como sigue 
+__label__POSITIVO todo en orden - reprogramar entrega de alimentos - no recibio
+__label__POSITIVO el am slaukin ana dni _digit_ se encuentra muy bien y su marido tambien 
+__label__NEGATIVO busca ofertas para economizar pero no le alcanza 
+__label__NEGATIVO recibio el cuadernillo esta un poco cansada con la situacion se anoto para _digit_ talleres no la llamaron aun 
+__label__NEGATIVO llame a susi para ver como estaba ella tiene toda la medicacion y ademas ya fe vacunada  estaba un poco bajoneada pero por suerte charlamos y se animo bastante 
+__label__POSITIVO esta muy bien charlamos un poco ya que le gusta actualizare datos de nacimiento _digit_ _digit_ _digit_ y detallar el celular en donde corresponde 
+__label__POSITIVO se encuentra bien de animo cocina para entretenerse se mantiene informada su hijo se encarga de las compras  aunque algunas veces sale para hacer mandados
+__label__POSITIVO esta bien merendando con el hijo el jueves le tocaba la vacuna por no de documento pero no habia tiene que llamar manana a uap ravazzoli sin seguridad de que lleguen solo esa inquietud 
+__label__POSITIVO se encuentra bien aprovecho para limpiar un poco ahora que paro de llover tranquila y cuidandose
+__label__POSITIVO todo bien
+__label__POSITIVO hable con el marido se encuentran muy bien y quedamos en volver a comunicarnos 
+__label__POSITIVO me comunique nuevamente con luisa evelia veron para hacerle el seguimiento correspondiente estaba de buen humor y en buen estado de salud 
+__label__POSITIVO se encuentran en perfecto estado generalmente me agradecen por la cotidianeidad de los llamados y la compania que representa
+__label__POSITIVO hable con mirta y su esposo estan bien abrieron el negocio con todas las medidas en el barrio ceibo vienen respetando la cuarentena
+__label__POSITIVO todo ok
+__label__POSITIVO luego de varios mensajes via whatsapp la senora se encuentra muy bien de salud y animo
+__label__POSITIVO hoy a la manana la fui a ver esta con la hijo que esta con ella  fue a verla la dra de pami y la encontro con lo signos vitales bien  la llame para saber como seguia y hija me dijo que manana se la lleva a su casa
+__label__POSITIVO esta bien sale a hacer las compras se mantiene en la casa
+__label__POSITIVO tercer llamado compartimos peliculas y series para ver en la tele la ayude a buscar informacion de farmacias que esten vacunando 
+__label__NEGATIVO se encuentra bien aveces muy agotada por el tratamiento y todo el viaje que hace para poder llevar a cabo esto me conto que igual feliz por que ya recibio su tablet asi que estaba super contenta no lo podia creer me pidio disculpas por haberse equivocado en mi nombre al momento de hablar con la persona que en representacion de mvl le entrego la tablet pero me dijo quedate tranquila que yo me voy a ocupar de hacerle llegar a pou que me equivoque y tus datos reales a lo que le dije que no se preocupe que es lo de menos que en el caso que necesitaran saber realemente con quien mantener conversacion o relacion nosotros contamos con este sistema de adultosmayores donde estan todas nuestras charlas me agradecio que siempre este tan atenta que siempre me acuerde de ella y que sea tan amorosa -
+__label__POSITIVO la senora flores ines se encuentra bien 
+__label__NEGATIVO esta mal de la salud con dias muy malos un poco depresiva la escuche con atencion ya que me cuenta toda la historia de cada cosa 
+__label__POSITIVO angela bien muy animada estaba hoy
+__label__NEGATIVO la senora estaba en la cama todavia hoy la note angustiada y triste por esta situacion cansada del encierro trate de contenerla como pude igual no esta sola vive con su esposo e hijo 
+__label__NEGATIVO buenos dias estuve conversando sobre su estado de salud que tuvo que reducir la dosis de medicamentos por dias debido a no cuentan con gran cantidad pese a esto se encuentran bien un tanto preocupados por la situacion actual 
+__label__NEGATIVO llame a lucia para ver si habia podido regresar a buenos aires o si habia podido conseguir la medicacion de la presion me comento que esta en santa rosa de calamuchita con su marido en una casa familiar una vecina que se atiende por pami le consiguio _digit_ caja de la medicacion pero no le alcanza para un mes entero lucia toma medicacion para le presion para el colesterol y para el corazon voy a enviar un mail a medicacion_digit_ pare ver si es posible que le hagan llegar a cordoba la medicacion que toma es -	losartan _digit_ comprimidos por dia de _digit_ miligramos -	rosuvastatina para colesterol-	nebivolol para el corazonmedico de cabecera atiende en vicente lopez es del pami dr carlos cosentino
+__label__NEGATIVO sigue resfriada
+__label__POSITIVO maria del carmen bien esperando el miercoles para abrir unas horas el negocio
+__label__POSITIVO esta muy bien
+__label__POSITIVO hable con maria y estan todos muy bien
+__label__POSITIVO se encuentran muy bien y con mucha energia
+__label__POSITIVO se encuentra bien esperando los tramites de pami para la cama ortopedica para el esposo 
+__label__POSITIVO llame hoy viernes _digit_ de mayo andan muy bien salen a hacer mandados 
+__label__POSITIVO esta tranquila y sigue sin salir su familia la asiste 
+__label__POSITIVO marta se mantiene en contacto con sus famiares y amigos se encuentra bien de animo y ocupada con el tejido de bufandas su hijo damian realiza las compras con lo cual no me solicito ningun pedido 
+__label__POSITIVO recibio muy bien el llamado agradecio pero no necesita nada quede en llamarla de vuelta 
+__label__POSITIVO se encuentra bien
+__label__NEGATIVO atiende dice no puedo atender y corta 
+__label__POSITIVO ella sigue muy bien y asistida por sus hijos
+__label__POSITIVO todo en orden 
+__label__POSITIVO hoy se encontraba con cierta angustia provocada por la incertidumbre y la necesidad de conectar con el tiempo de esparcimiento agradecida del llamado y el momentito de intercambio volvemos a hablar 
+__label__POSITIVO contenta por recibir el llamado  ya se siente mejor de animo quedamos en seguir en contacto
+__label__NEGATIVO hable con la esposa y esta un poquito mejor de la depresion fue el psiquiatra de la obra social y lo medico y eso hace que tambien la esposa este mas contenida muchas gracias
+__label__NEGATIVO me atendio el marido que ella se estaba banando le dije que la llamaba mas tarde me conto que se le partio un diente que por suerte no le duele hablo con su medico que la opero de cancer de mandibula y le recomendo que si no le duele que evite ir al dentista  no pudo dormir bien por que le faltaban muchas cosas comprar pero por suerte tiene un local abajo de su casa asi que a primera hora fue a hacer las compras y se compro todas las cosas me conto que tiene una tortuga que siempre esta dando vueltas que tiene que tener cuidado por que siempre esta dando vueltas como si fuera un perro que la banar todos los dias me conto que tuvo dos perros que ambos murieron de viejos que uno vivio _digit_ anos que no quiere volver a tener por que sufre mucho cuando fallecen  me conto que volvio a leer la biblia y me conto cosas de su vida hablamos un ahora y cuarto quedamos en volver a hablar el dia _digit_ _digit_
+__label__POSITIVO martin se encuentra bien y como cada semana charlamos un ratito q cada dia se hace mas amigable de hecho ya sabe q los llamare una vez por semana  
+__label__NEGATIVO le hice un llamado para ver como andaba la hija la tiene abandonada la asiste su nieta de _digit_ anos tiene _digit_ anos y no tiene trato con ella  el nieto de _digit_ de anos con su retraso leve no la puede asistirla entro en llanto esta angustiada porque siente que su hija quiere que se muera quiere quedarse con el depto donde martha vive y eso la tiene muy mal la hija es maestra de _digit_ anos maestra del florida school y la estaria destratando de una manera importante 
+__label__POSITIVO esta muy bien contento
+__label__NEGATIVO llamo a am me comenta que esta hablando con medicus y me indica que aguarde un instante en linea para cortar la llamada con medicus el marido sufre una enfermedad tenia una enfermera que viajaba mucho y no quiere mucho que vaya a la casa por las dudas ya que graciela me comenta que tuvo covid y ya esta bien y se recupero a la enfermera le dio positivo tambien luego de que graciela la solicito hacerse un isopado hablamos de las vacunas que antes no consiguio neumonia y la gripe para su marido le mandaron una ambulancia de la municipalidad con vacunas el miercoles pero fueron vestidos sin proteccion indica no le pasaron los _digit_ dias de ella con covid y por lo tanto el portero no los dejo pasar porque no tenian la vestimenta adecuada la ambulancia se fue sin tocarle timbre indica me indica que las vacunas las viene pidiendo hace mucho tiempo le indico que de todas formas lo ideal en estos momentos es comunicarse con el _digit_ y comentar toda esta situacion para asi de esa forma que le indiquen como se coordinan estos casos ya que su marido es una persona de riesgo y requiere una solucion lo antes posible brindo numeros de contacto solicitados por am secretaria de desarrollo social _digit_-_digit_ int _digit_  _digit_ me comenta que ella hablo en el dia de hoy para que esto se pueda solucionar lo antes posible me indica datos de su marido que requiere las vacunas  manente german dni  _digit_ le comento que voy a elevar directamente el caso asi de esa forma podemos brindar una solucion lo antes posible luego me indica que se queda mas tranquila al hablar conmigo ya que le brindo soluciones y seguridad agradece por toda la atencion y gestion pactamos una llamada para el lunes asi de esa forma verificar si hay algun tipo de solucion agradece por todo y finaliza la llamada envio correo a la municipalidad explicando la situacion 
+__label__POSITIVO soluciono problema de tv 
+__label__POSITIVO estan muy bien 
+__label__POSITIVO _digit_ _digit_-me comunique con elba esta bien y todo normal
+__label__POSITIVO me comunique en el dia de hoy la senora se encuentra bien 
+__label__NEGATIVO _digit_ _digit_-angela bien le envie un ms por que mi tel no tenia sonido _digit_ _digit_-angela bien me cuenta que se sentia cansada y preocupada porque aumento _digit_ kg 
+__label__POSITIVO esta interesado en el taller de escritura esta perfectamente
+__label__POSITIVO llamado en varias oportunidades y logre comunicarme se encuentra bien la llaman sus nietos y su hermana continuamente  no sale esta bien de animo quiere que la llame dentro de _digit_ dias 
+__label__POSITIVO _digit_ _digit_ _digit_ se puso contenta con el llamado vive sola pero se arregla bien con sus necesitades solicito que la vuelva a llamar la semana proxima 
+__label__POSITIVO se pasa telefono de farmacias la perla y galvagni para que consulte por aplicacion de la vacuna y de hospital centrangolo dice que tiene turno con medico se pide que llame para confirmarlo antes de salir de su casa agradecida porque retiro bolson de alimentos 
+__label__POSITIVO llamado telefonico para ver como se encuentra le comente que en la semana se iba a contactar con ella una psicologa lic marcela lupi  estaba agradecida por que la haya llamado y a su vez por tener el apoyo tambien de una psicologa 
+__label__NEGATIVO hablamos del estado de animo no se encuentran muy bien el hijo no tiene trabajo y el choco con su auto 
+__label__POSITIVO se encuentra bien
+__label__NEGATIVO llamada al _digit_ me indica que ya estan bien y que claudia de parte de la municipalidad se pone en contacto con ellos agradece el llamado y corta 
+__label__POSITIVO se encuentra bien 
+__label__POSITIVO la llame esta bien calentita tiene estufas en la casa
+__label__POSITIVO la senora beateiz dib se encuentra bien 
+__label__POSITIVO esta muy bien
+__label__POSITIVO muy bien de animo
+__label__POSITIVO esta bien
+__label__POSITIVO se la escucho bien estaba realizando las tareas del hogar charlamos de todo un poco y de como la estuvo llevando estos dias 
+__label__POSITIVO estoy en contacto con nancy aguirre le pase la informacion que ustedes me enviaron sobre centros de vacunacion de la neumonia que ella habia pedido quedo muy agradecida ella y su familia se encuentran bien quedamos en volver a comunicarnos en la semana entrante para ver si logro vacunarse 
+__label__POSITIVO se encuentran bien el llamado fue breve porque la sra lina estaba ocupada lo primero que me pregunto fue si se habia podido incorporar al programa a su amiga maria se puso contenta al saber que ya estabamos en contacto 
+__label__POSITIVO estaban contentos porque vino a verlos la hija que vive en pilar y no la veian desde que comenzo la cuarentena
+__label__POSITIVO sin necesidad
+__label__POSITIVO me comunique con la sra segun la respuesta del mail que recibi la sra quiere ocuparse ella  y me pide el telefono del centro de rehabilitacion me agracede y quiere que la llame otro dia
+__label__POSITIVO hable c la senora siendo las _digit_ _digit_hs se encuentra bien  un poco preocupada x la vacuna ya que no puede trasladarse a la farmacia hable c pami le pase las fechas y quedo en mandar a su hija a retirar la inyeccion y vacunarse en su casa en forma privada 
+__label__POSITIVO _digit_ _digit_ muy bien de animo acompanada tiene pendiente control de analisis medicos 
+__label__POSITIVO en el dia de hoy me comunique con la senora a los efectos de saber si habia podido solucionar con la respuesta de voluntarios@  el tema con el pami y me dijo que si que ya se comunico con ellos y en estos dias le mandan los remedios necesitados como siempre muy agradecida y contenta de estar contenida 
+__label__POSITIVO el am se encuentra en buen estado de animo acompanado x su esposa retiran la caja de alimento x irigoyen _digit_ estado general muy bueno
+__label__NEGATIVO ayer hablamos con susi en el dia de hoy estoy acercandole un pedido que ella necesitaba estaba un poco nerviosa por que su medico la llamo para cambiar el circuito habitual de las recetas la pude tranquilizar le explique y quedo todo aclarado y ella mas tranquila
+__label__POSITIVO como se indico anteriormente se converso con la senora los dias _digit_ _digit_ y _digit_ de abril por seguimiento se informa las ultimas  llamadas                                      el dia _digit_ de abril la senora margarita manifiesta que ella y su esposo fueron a cobrar la jubilacion ambos se encuentran bien y tienen fluida comunicacion con sus hijos             el dia _digit_ de abrilla senora es breve durante la llamada por que en ese momento llego una de sus hijas trayendo articulos varios  indico q ella y su esposo estan bien                          el dia _digit_ de abril la senora cuenta que paso muy bien esta semana por estar conectandose mas en las redes es una conversacion distendida con una persona bien predispuesta             cabe destacar que la lic mariana ramon se comunico con la actuante para interiorizarse acerca de la sra sanchez se intercambiaron varias llamadas donde se le explico q el matrimonio se encuentran bien y que es la senora una persona comunicativa y que dia a dia va tomando seguridad ante la situacion imperante 
+__label__POSITIVO no tiene necesidad de medicamentos porque no toma remedios -tiene escoliosis y suele ir al traumatologo de san martin pronto tomara un turno l e doy direccion de h yrigoyen _digit_ para retirar alimentos y modalidad de autorizacion ya que ira su hijo se siente tranquila y con animo positivo al estar viviendo con su familia 
+__label__POSITIVO me comunico con haydee quien me dice que esta bien sin necesidades momentaneamente w la espera de que todo esto culmine 
+__label__POSITIVO la senora ines flores se encuentra bien 
+__label__NEGATIVO hoy me comunique con el sr juan humberto dandole el dato de retiro de bola de comida que me facilitaron por mail siendo que el me comento que comen salteado 
+__label__POSITIVO leon y nidia se encuentran bien en el caso de leon continua atendiendo el taller mecanico y nidia a la pintura de cuadros tambien se mantienen en contacto con sus familiares y amigos en cuanto a las compras las realizan en un mercado que se encuentra cerca de su casa 
+__label__POSITIVO se encuentran bien de animo hacieno tareas en la casa para pasar el tiempo seguire llamndolos
+__label__POSITIVO se encuentra de buen humor completamos la encuesta no quiere participar 
+__label__POSITIVO hoy esta muy sociable  y buen animo 
+__label__POSITIVO todo en orden
+__label__POSITIVO la senora ana slaukin y su marido guido se encuentran bien 
+__label__POSITIVO me comunique nuevamente en el dia de hoy con luisa evelia veron estaba bien de salud y emocionalmente estable me comento que estuvo buscando turno con el cardiologo en la semana pero no se pudo comunicar con su medica se le dijo que iba a consultar a la municipalidad al numero correspondiente el dia lunes porque ya me encuentro fuera del horario de atencion tambien llame al _digit_ para informarme sobre la inscripcion de luisa a los talleres porque no ha tenido novedades aun salvo la llamada que le han hecho para averiguar si tenia pc 
+__label__POSITIVO se encuentra bien y sin necesidades por el momento se pacta llamado dentro de unos dias 
+__label__POSITIVO la am se encuentra en buen estado asistida por su hija prefiere retirar la caja de alimentos en otro lugar donde hacen _digit_ filas _digit_ es exclusiva para am
+__label__POSITIVO tuvimos una muy linda charla con ceferina  una genia me toco  muy buen animo
+__label__NEGATIVO la senora es diabetica y manana se le vence la receta es urgente debido a que es insulno dependiente 
+__label__POSITIVO el dia _digit_ _digit_ retiro el bolson alimentario estaba contenta y satisfecha con la entrega 
+__label__POSITIVO para ver como se encuentran igual estan bien 
+__label__NEGATIVO la sra leiva pide por favor si se la puede ir a vacunar a domicilio a ella y a su hermano la sra es hiperobesa y su hermano es diabetico insulino dependiente tiene amputada una pierna y un dedo del pie solicita la antigripal y neumococo para los dos muchas gracias
+__label__POSITIVO se encuentra bien y muy agradecida con las ayudas que recibe y el acompanamiento 
+__label__POSITIVO se encuentran bien de buen animo y contenidos por la familia
+__label__POSITIVO no pudieron ir a buscar la caja con alimentos el lunes informo y llamo al _digit_-_digit_ se encuentran bien gracias
+__label__POSITIVO el am malatesta nelida dni _digit_ se encuentra muy bien 
+__label__POSITIVO bien de animo se comunico con ella nuestra amiga en comun amelia domec presidenta del pte por lo que esta aun mas contenida esperando poder salir para caminar unas cuadras pero recibio el mensaje de nuestro intendente 
+__label__POSITIVO se encuentra de buen animo y muy bien acompanado -
+__label__NEGATIVO llame a elsa por _digit_ra vez pues la vez anterior fue por whatsapp y me dijo que no queria que llame que no necesitaban nada  deje pasar un tiempito y hoy me paso con su esposo  el tema es que estan mas o menos porque el tuvo cancer de prostata hace _digit_ anos y en su ultimo contreol le salio muy alto el recuento tumoral en sangre aparentemente y quiso hacerse una ecografia y no llego antes de la pandemia  tiene esto pendiente y estan angustiados con esto  preguntan si podria con al orden de hace _digit_ meses de pami ir a la salita de carapachay a hacerse la ecografia y ver si esta sano o se agravo  voy a gestionar esto via mail 
+__label__POSITIVO esta muy bien 
+__label__NEGATIVO hoy hable con elvira estaba mas contenta que la semana pasada ya que el hermano que esta internado esta mejor hoy salio para hacer las compras fue a la panaderia y la carniceria luego ahora cuando la llame estaba tejiendo un pullover estaba de buen animo cosa que la semana pasada estaba bajoneada la voy a llamar en unos dias 
+__label__NEGATIVO se encuentra un poco angustiada ya que los hijos estan sin trabajar
+__label__POSITIVO animada habalamos x whatsapp
+__label__POSITIVO se encuentran bien de animo contenidos por los hijo y entreteniendoce haciendo cosas en la casa
+__label__POSITIVO la senora ines flores el dia _digit_ de agosto se encuentra bien la senora ines flores el dia _digit_ de agosto se encuentra bien el motivo de cargar las novedades hoy es por mal funcionamiento de internet 
+__label__POSITIVO hablo con esposo de am se muestra receptivo y amable pero no habla demasiado indica que esta todo bien quedamos en mantener el ctc una vez por semana o mas	llamar el _digit_-_digit_
+__label__POSITIVO hable con el esposo me comento que estan bien que por el momento no necesita nada quedamos que nos mantenemos en contacto en la semana
+__label__NEGATIVO me conto que el dentista el otro dia le saco la muela y que ahora aparentemente se le hizo una infeccion asi que estaba aguardando que le hablara para ver si tiene que volver a ir se siente dolorida pero esta tomando medicamentos trata de llevar los dias lo mejor posible a veces el dolor se hace insoportable pero bueno tiene fe que ahora que ya se hizo ver por el dentista comience a mejorar hablamos media hora y la deje tranquila ya que le costaba hablar y dolia mas me agradecio estar siempre atenta me pedia perdon por no poder tener una charla mas extensa como solemos tener a lo que le dije que ni me tenia que pedir perdon que cualquier cosa seguiamos conversando por wsapp ya que ella lo usa y cada tanto me envia alguna canciones de amor o temas muy lindos y me dijo que si que dale y que mas tarde me hablaba por ahi para contarme si tuvo suerte con el dentista quedamos en hablar el _digit_ _digit_
+__label__NEGATIVO maria del carmen bien va todos los dias al negocio pero no hay ventas
+__label__POSITIVO hable con maria le mande informacion por mail sobre cursos de frances paso un lindo fin de semana
+__label__POSITIVO la hija le compro _digit_ rompecabezas entusiasmada con ese juego 
+__label__POSITIVO esta bien
+__label__NEGATIVO se encuentra bien solo me refirio los problemas que hay en pami para conseguir la medicacion del esposo
+__label__NEGATIVO maria del carmen mejorando se esta encontrando moretones y le duele el brazo el pie del lado derecho un terrible golpe se dio
+__label__POSITIVO hablamos por whatsapp se encuentra bien  como siempre animada
+__label__POSITIVO todo ok me conto que la licenciada la encontro bien 
+__label__POSITIVO muy bien y acompanada
+__label__NEGATIVO deseo saber si desde alli llamaron al senor flores el senor flores me lo comunico hace un rato por telefono el tiene miedo que ingresen a su casa hace poco ha vivido un episodio en el que le cortaron la luz de su casa me dijo que no se sentia muy seguro con los llamados 
+__label__POSITIVO la llame se encontraba bien estanba con mucho trabajo ella es artesana 
+__label__POSITIVO llame a la sra se encuentran bien le pase mi wps 
+__label__POSITIVO en esta oportunidad atendio la senora elena beatriz el llamado anterior habia atendido el esposo por el momento no tienen ninguna necesidad vive con el marido ex empleada municipal del hospital ya jubilada no se vacunaron aun pero por que no son de vacunarse para hacer compras se manejan entre ellos y los ayuda el hijo miran tv leen  limpian tienen una mascota y se manifesto animada y muy cordial agradecida con el llamado 
+__label__POSITIVO me he comunicado con ella en el dia de la fecha si bien tiene una enfermedad respiratoria pre existente se encuentra muy bien y animada controlada por sus medicos y asistida por su familia  no requiere asistencia particular
+__label__POSITIVO todo bien
+__label__POSITIVO se encuentra muy bien
+__label__POSITIVO esta muy bien recien manana tiene que salir por primera vez al bco le recomende como usar el barbijo 
+__label__POSITIVO se hablo esta bien le informo que cambio el sist de las cajas q cuando tenga alguna novedad la llamo
+__label__POSITIVO me comunique con ella los dias _digit_ _digit_  _digit_ _digit_ y en el dia de la fecha no requiere de asistencia particular concurrira a vacunarse muy agradecida por la iniciativa 
+__label__POSITIVO la sra se encuentra muy bien de animo no necesita nada por el momento respondio la encuesta comento que no va a los centros de jubilados porque suele haber peleas entre los miembros 
+__label__POSITIVO todo bien
+__label__NEGATIVO no se ha hecho nada con este sr y reitero que esta muy necesitado de atencion 
+__label__POSITIVO llamada del dia _digit_ _digit_ se vacuno en el dia de hoy en la uap llovera sin problemas a pesar de la cola  esta provista de barbijos atendida x au nuera se encuentra bien 
+__label__NEGATIVO la llame sigue con su problema habitacional
+__label__POSITIVO se encuentra muy bien 
+__label__POSITIVO todo en orden
+__label__POSITIVO por suerte se encuentra mejor tenia solamente un resfrio y ya no presenta sintomas estaba muy bien animicamente 
+__label__POSITIVO buen animo 
+__label__POSITIVO estaba ordenando su dormitorio esta bien de animo esperando las palabras del presidente el fin de semana para ver como continuamos 
+__label__NEGATIVO se encuentra bien un poco depresivo
+__label__NEGATIVO me contacto a fin de saber como se encuentran anunciacion y pierino su esposo pierino responde el llamado me agradece y en esta oportunidad refiere que le va a ser util contar con mi ayuda de aqui en adelante refiere que anunciacion quien fue operada de carcinoma en la cabeza en el hospital de vicente lopez requiere ser llevada a la guardia del hospital por tener pus en su herida el y su familia instrumentaran en traslado dado que el profesional interviniente le indico acudir a la guardia en caso de ser necesario pierino pudo vacunarse contra la gripe anunciacion no  se le indica intente hacerlo en el vacunatorio del hospital futuro no descarta llamarme para requerir auxilio en la compra de medicamentos 
+__label__POSITIVO me comunico siendo las _digit_ _digit_ horas se encuentra bien dice que de buen animo a pesar de estar encerrada ayer fue hasta la almacen mas cercana a su domicilio a realizar algunas compras se esta cuidando siguiendo las indicaciones quedamos en comunicarnos el proximo viernes _digit_ _digit_ 
+__label__POSITIVO hable con leticia se encuentra bien estuvimos hablando largo rato 
+__label__POSITIVO hablamos por whatsapp se encuentra bien
+__label__NEGATIVO hoy me llamo la senora marcela desconsolada por que a la senora que la acompana no le dieron el permiso de circulacion le sugeria que llame a la municipalidad para que la orienten llamo y me dijo que la iban a ayudar por otra parte como la oi tan mal llame a la lic mariana ramon para que por favor gestione ante la psicologa que le atencion psicologica atencion lo mas pronto posible para contenerla 
+__label__POSITIVO bien de animo 
+__label__POSITIVO _digit_ _digit_ y- angela esta preocupada por covi _digit_ ella tiene una ulcera estaba dolorida ayer no habia dormido bien necesita caminar para distraese un poco su hijo no quiere que salga su hija va hacerle las compras maria cecilia manana va almorzar con ellaya preparo el almuerzo me esta ensenando a cocinar me dio dos recetas para preparar hoy esta mas animada
+__label__POSITIVO buen dia informo que los adultos mayores estan muy bien contenidos hablamos diariamente o dia por medio gracias
+__label__NEGATIVO hablamos x wasap esta con su problema del agu y de la luz angustiada
+__label__POSITIVO realize el llamado a la senora me corroboro que los datos que estan en la planilla estan bienme comento que la asiste su hijo con mercaderia y demas cosasme comento que intento sumarse al voluntariado pero por temas relacionados con su edad no pudo ingresarse encuentra en buen estado de animose mantiene informada por los medios me comento acerca de otros puntos de ayuda alimentaria y demassu hijo la asistiria hoy _digit_ _digit_ _digit_ en el horario de las _digit_ hs con mercaderia y demasme comento que no le interesa ya que podria haber gente que lo necesite mas
+__label__POSITIVO hoy volvi a hablar con manuel le gusta hablar mucho y es muy agradecido vive con su senora y se encuentran bien tienen dos hijos que lo visitan y me conto que tiene varios nietos y bisnietos me comprometi a conseguirle vacante a una de sus nietas que tiene sindrome de down en la colonia de chicos con discapacidad que funciona en el campo de deportes numero uno donde yo trabajo me pidio que lo siga llamando 
+__label__POSITIVO ayer me sorprendi seferino me llamo para decirme que esta bien que no necesita nada comprendio que el haber apagado el telefono el viernes provoco en mi una gran angustia y alborote a todo el mundo 
+__label__NEGATIVO luisa con presion alta le dije que llame a su medica tenia palpitaciones
+__label__POSITIVO todo ok
+__label__POSITIVO excelente todo bien
+__label__NEGATIVO bien dentro de su situacion no la pasa bien pobre mas que nada la escucho
+__label__POSITIVO estan bien
+__label__POSITIVO estan bien el y su esposa
+__label__POSITIVO breve llamada pero con muy buena onda por parte de carlo y su mujer estan bien
+__label__POSITIVO se encuentra bien
+__label__POSITIVO hoy pude ver a zulema ya que tuve que ir a llevarle unas cosas que su hermana me pidio comprar estaba bien de buen semblante y me contaron que la llamaron de la muni para preguntarle si de habian vacunado 
+__label__POSITIVO en perfecto estado todo muy bien
+__label__POSITIVO todo ok
+__label__NEGATIVO luego de una nueva comunicacion la senora ramona se encuentra muy bien sus hijas la atienden en lo referente a compras y esas cosas pero muy agradecida de este acompanamiento que dice le hace muy bien para pasar por este momento de encierro que encima se junta con la muerte de un hijo hace unos tres meses  seguiremos en contacto
+__label__POSITIVO me llamo para avisarme que hoy le entregaron la tablet estaba re contenta y esperando que la llamen para asistirla con ella 
+__label__NEGATIVO me atendio su hijo ariel  sigue muy bien con la atencion psicologica lo llamaron de accion social para las actividades pero las hace segun sus tiempos ya que va muy seguido al bano y se siente muy cansado 
+__label__POSITIVO se encuentra bien
+__label__POSITIVO maria del carmen bien envie los ejercicios
+__label__POSITIVO muy bien refiere que no necesita nada sale poco y esta esperanzado en que todo vuelva a la normalidad para poder  seguir con su trabajitos de arreglar jardines ya que eso por el momento no puede realizarlo
+__label__NEGATIVO buenas tardes la sra me comenta que ha recibido llamadas telefonicos de personas que dicen ser del municipio consultando acerca de su estado de animo y otras consultas esta molesta x estas llamadas reiteradas 
+__label__POSITIVO hablamos en el dia de la fecha se manifiesta comunicativa la semana proxima concurrira a vacunarse no requieren asistencia particular muy agradecida por la iniciativa
+__label__POSITIVO llamado y alegre y con ganas de realizar tareas 
+__label__POSITIVO se encuentran bien le comunique lo nuevo que me comunicaron por la eximicion de abl agradece que este comunicada con ellos y por la informacion que le doy con rspecto a lo que ella me pregunta sigo llamndola
+__label__POSITIVO siempre y bien y amable
+__label__POSITIVO tiene todas sus necesidades cubiertas  la asiste un familiar 
+__label__POSITIVO _digit_ _digit_- llame a la sra patricia p ver si se comunico con el medico estaba con una video llamada de sus alumnos me contesto por eso no podia atenderme hoy le envie un ms y me contesto que ya tiene las recetas esta muy agradecida por el servicio que se le brinda a los adultos mayores
+__label__POSITIVO la senora beatriz dib se encuentra bien 
+__label__NEGATIVO hoy se encuentra mejor que ayer
+__label__POSITIVO estan resolviendo sus problemas los medicamentos ya lo consiguieron 
+__label__POSITIVO todo bien sin novedades
+__label__POSITIVO en perfectas condiciones sin necesidades
+__label__POSITIVO se encuentra mas animado sus hijos van mas seguido
+__label__NEGATIVO informe de la semana de los am  muy contentos con nuestro llamado esperan          el mismo para  charlar un rato y agradecen siempre al intendente estan un poco preocupados por la salida de la gente que rompe la cuarentena
+__label__POSITIVO la senora esta ocupada con una hija que fue de visita quiere que se la llame en unos dias expreso que *quizas la semana que viene*
+__label__POSITIVO hable con norma ella esta bien de buen animo por ahora no necesita nada urgente 
+__label__POSITIVO todo bien
+__label__NEGATIVO ayer me comunique con maria quien me conto que forma parte de los testigos de jehova  con quienes se comunica a diario me comento que tuvo cancer de mama tiene insuficiencia cardiaca y fue operada hace tres anos de la rodilla despues del fallecimiento de su marido su doctora de cabecera le recomendo tomar medicamentos para dormir la misma medica actualmente le dijo por un lado que tenia que sacar turno para un psiquiatra y que tenia que empezar a dejar los medicamentos para dormir  ella me comento que necesitaba de esos medicamentos que no los podia dejar hoy iba a hablar con su doctora para ver como seguia a su vez me comento que pami siempre le daba una bolsa de alimentos pero que ya hace _digit_ o _digit_ meses que se lo cortaron asi que hoy se iba a comunicar con ellos para ver que pasaba en este momento estoy tratando de comunicarme con ella para ver que le dijeron pero no me atiende seguire intentando 
+__label__POSITIVO la senora beatriz dib se encuentra bien 
+__label__NEGATIVO muy bajoneada sin ganas de nada preocupante vive con su esposo de _digit_ ella _digit_ anossugiero apoyo psicologico por llamado
+__label__POSITIVO la senora se encuentra bien sin novedades
+__label__NEGATIVO esta mucho mejor le subieron el antidepesivo
+__label__POSITIVO estan bien por el momento no necesitan nada a veces salen a hacer las compras 
+__label__NEGATIVO venimos comunicandonos con maria semanalmente si bien sufre algunas dolencias fisicas que no le permite movilizarse con la comodidad que le gustaria se muestra predispuesta y encuentra actividades en estos tiempos de pandemia acompanada por su familia 
+__label__NEGATIVO genero femenino corregir la asiste una vecina no sale a la calle problemas de salud por presion alta y coronarios refiere que su medica de cabecera de pami roxana cambiasso desaparecio y no contestan telefonos en pami ni le dan solucion le queda poca medicacion y no consigue las recetas asistia a centro de dia alihuen en munro donde la psicologa esta brindandole ayuda 
+__label__POSITIVO charlamos felices esta mejor del dolor de espalda 
+__label__POSITIVO se le informo la posibilidad de retirar la caja de alimentos va a consultar con su hija si puede buscarla ya que ella trabaja sino me ofreci a acercarsela 
+__label__POSITIVO hola ayer hable con susana pasa que no tenia disponible la computadora para cargar el parte se encuentra bien  con la asistencia de sus hijas y comunicandose con amigos y familiares por video llamada charlamos un buen rato muy cordialmente 
+__label__POSITIVO se encuentra muy bien viendo un poco de tele y escuchando la radio pasando los dias conversamos un buen rato
+__label__NEGATIVO la sra esta bien de salud pero muy molesta por la no atencion de la secretaria de salud
+__label__POSITIVO me conto que se esta ocupando de arreglar su jardin esta en contacto con vecinos  a veces le da melancolia pensar en los jovenes que estan expuestos sobrinos nietos  ella esta tranquila y no sale para nada la asiste la flia y vecinos 
+__label__POSITIVO _digit_ _digit_ _digit_ me comunique con maria cristina y converso mas de _digit_ minutos me conto de su problemita de salud pero se encuentra muy bien y asistida por sus hijas me indico que no necesita que la llamemos solicito la baja
+__label__POSITIVO mimi se encuentra bien y como siempre nuestra charla es axtensa nos reimos y me cuenta sus dia como pasan  
+__label__POSITIVO me contacte nuevamente via whatsapp tuvimos una pequena charla  sigue bien 
+__label__POSITIVO estan bien 
+__label__POSITIVO estuvo barriendo la vereda estaba mirando en la tv el programa de la cocina me pregunto si la llamaba solo a ella y me pidio que la tutiara estaba bien con un poco de dolor en la columna porque se agacho para juntar las hojas se habia tenido el domingo y se la notaba bien 
+__label__POSITIVO todo bien sin novedades 
+__label__POSITIVO ayer hable y le avise del calendario de vacunacion  hoy charle con el estaba bien y me conto que se habia vacunado
+__label__POSITIVO en el dia de la fecha  me comunique con ella muy comuncativa no requiere asistencia particular 
+__label__POSITIVO hoy lo llame por telefono para conversar con el pero no lo encontre  le deje msg x whatsapp estamos siempre en contacto x este medio  el me envia propagandas de actividades culturales de la municipalidad  se ve que tiene contactos y siempre se lo ve alegre y bien dispuesto 
+__label__POSITIVO la senora se encuentra bien esperando para darse la vacuna neumonia que esta en falta 
+__label__POSITIVO esta bien no necesita nada 
+__label__POSITIVO se encuentra muy bien
+__label__POSITIVO la senora slauikin ana y su marido se encuentran bien 
+__label__POSITIVO esta bien y muy agradecida de recibir los llamados
+__label__POSITIVO la senora ana slaukin se encuentra bien junto a su marido guido 
+__label__POSITIVO todo bien hable la senora el senor andres habia salido por que tenia turno medico 
+__label__NEGATIVO charlamos un rato y me comento nuevamente que a su vecino guillermo mercado no lo asistia nadie y esta preocupada xq sabe que no esta esta en condiciones de ir a retirar los alimentos y tampoco economicas como para dispensar de los mismos 
+__label__POSITIVO me comunique en el dia de hoy la senora alicia se encuentra bien trabajando en su taller de costuras 
+__label__NEGATIVO la am me cuenta que por suerte ya esta mucho mejor esta tomando medicamentos el doctor la vio y le dijo que lo que tiene es una discopatia es algo leve pero esta originado por movimientos que tal vez el cuerpo no estaba acostumbrado a hacer la am agradece el contacto y la preocupacion 
+__label__POSITIVO se realiza la primer llamada se encuentra muy bien y animada sale lo minimo necesario farmacia  compras pasatiempos pinta muebles arregla cosas se jubilo hace _digit_ anos trabajo en empresa textil como operadora y encargada se define como una persona muy activa - le cuesta estar quieta tiene amigas con las que hablan le gusta ver novelas turcas necesita ver - medico gastroenterologo tiene diverticulos y brida - ginecologo para examen anual- endocrinologa- cardiologo- clinicosolicita que la asistamos para conseguir un gastroenterologo pami - nro de afiliada _digit_ _digit_ _digit_ _digit_hospital vicente lopezmaria beatriz sarfieldmedico gastroenterologo
+__label__POSITIVO bien con su flia que se ocupa de las compras tranquila teje mira novelas y asi pasa el tiempo agradecida por los llamados
+__label__NEGATIVO el dia martes _digit_ la sra me llama a las _digit_ _digit_ para decirme que la psicologa la llamo pero ella necesita que vaya a la casa y que su hijo opina lo mismo que una hora y media por tel no le sirve 
+__label__NEGATIVO llamado de presentacionvive sola la asisten ocasionalmente una amiga y una hijael hijo trabaja en mvlesta de buen animo tiene dias desanimada porque extrana salir y el confinamiento se le hace largo
+__label__POSITIVO se encuentran bien
+__label__POSITIVO angela bien mirando peliculas por el frio no esta pintando las ventanas porque lo tiene que hacer al aire libre
+__label__POSITIVO bien de animo
+__label__NEGATIVO problemas economicos
+__label__POSITIVO los dias anteriores no pude cargar las acciones porque es sistema no me lo permitia lo importante es que leticia esta bien hablamos generamos un lindo vinculo y planeamos encontrarnos cuando pase la pandemia 
+__label__POSITIVO se llamo el dia de la fecha la cual fue acordada previamente la esposa de la persona fallecida que se me asigno se encuentra bien 
+__label__POSITIVO hable con la vecina y esta contenta porque pudo retirar un bolson de alimentos para el se encuentra bien segun lo que me dijo su vecina 
+__label__POSITIVO de muy buen animo 
+__label__NEGATIVO bien sigue con control por su problema de salud 
+__label__NEGATIVO maria esta haciendo manualidades con sus hermanos tratan de matar el tiempo haciendo varias cosas pero ya no agantan mas el encierro no les falta nada tienen todo lo necesario para su familia 
+__label__POSITIVO el dia de hoy fue su hija a verla y le va a realizar algunas compras esta bien de animo 
+__label__NEGATIVO necesito si una psicologa puede llamarla ya que esta un poco triste y deprimida por el encierro le comente que podia derivarla y me dijo que si que quizas le haga bien por favor tenerlo en cuenta
+__label__POSITIVO llame a lidia todo ok
+__label__NEGATIVO la senora llamo al numero que le pase y le dijeron que le iban a averiguar como podian ayudarla con su marido el se encuentra muy agotado marta se encuentra activa y siempre esta atenta a su marido
+__label__NEGATIVO en el dia de la fecha realizo el llamado me dijo q se encontraba bien pero esta angustiada por que esta cansada de tanto encierro y necesita salir pero bueno respeta la cuarentena la escuche un poco nerviosa m dijo q estaba por limpiar y quedamos en que la volvia a llamar ala tarde 
+__label__POSITIVO hablamos con gladys esta mejor de animos aun los hijos no fueron a verla pero si por lo menos la llamaron le comente que me comunique con salud para que la vuelvan a incluir en el plan de diabetes ademas le informe que la anotamos para que le acerquen cajas de alimentos quedamos en volver hablar el dia miercoles  de todas maneras a penas tenga una respuesta por parte de salud la volvere a llamar
+__label__NEGATIVO durante el fin de semana nos hemos comunicado con frecuencia ya que no se sentia bien del estomago pero luego de sugerirle distintos alimentos que le podian hacer bien al estomago hoy cuando hablamos nuevamente me comento que se sentia mas animada y mejor del estomago sigue a dieta y seguiremos en contacto durante la semana 
+__label__POSITIVO nos comunicamos la conversacion fue fluida  se siente bien sale a comprar maneja se defiende a pesar que vive sola solo tiene cambiado el sueno solicito ser llamada despues del mediodia
+__label__POSITIVO manifiesta sentirse mejor 
+__label__POSITIVO nelida contenta que le llevaron la caja a pesar que le dije que tenia que retirarla igual no tenia posibilidades de hacerlo hablamos todo el tiempo x wp
+__label__POSITIVO esta muy bien de animo 
+__label__POSITIVO hable con cristina para ver como estaba me dice q bien y con frio no necesita nada por el momento pero me agradece y quedamos en hablar la semana q viene
+__label__POSITIVO contenta porque en el edificio cortaron el cesped  ella vive cerca del rio y le preocupa el tema mosquitos quedamos en volver a hablar
+__label__POSITIVO se encuentra bien me dijo que no va a hacer mas yoga porque se aburrio 
+__label__POSITIVO me comunico a las _digit_ _digit_ horas me cuenta que esta merendando que ya saco la basura y esta con la estufa calentando toda la casa hoy fue a la farmacia cercana a su domicilio al mediodia que ya no sale mas porque hace mucho frio su sobrina manana le va a traer las compras de mercaderia que le hace todas las semanas se encuentra de buen animo con ganas de que esto termine y poder salir nuevamente quedamos en volver a hablarnos en unos dias 
+__label__NEGATIVO la sra se cayo en la calle y tiene miedo de ir a la guardia el hijo le acerco una crema anti- inflamatoria pero sigue con dolor por mis medios intento llamar al _digit_ y solicitar ayuda 
+__label__POSITIVO esta mejor del nervio ciatico despues de la aplicacion de una inyeccion muy bien animicamente habla todos los dias por telefono con su hermana 
+__label__POSITIVO hable con lidia todo ok
+__label__NEGATIVO hable con silvia se puso contenta con el llamado conversamos sobre su salud medijo que estabaa bien cansada nomas del encierro pero todo bien quedamos en que la llamo de nuevo la proxima semana 
+__label__POSITIVO el dia _digit_ me acerco a retirar la autorizacion y voy a retirar una caja de alimentos me pide si es posible conseguir papel higienico le compro _digit_ rollos me atiende siempre con barbijo y me agradece encarecidamente hoy lo llamo y le cuento que otro adulto asignado vive en su mismo edificio y como voy a ir a entregar una receta le pregunto si precisa algo expresa que no agradece mucho por la ayuda y charlamos de cuestiones personales me cuenta de su vida que es investigador y disfruta de ver cine y leer me pregunta si puedo subir algun dia al departamento porque desea obsequiarme un libro le digo que por resguardo no entro en edificios pero con gusto lo dejamos para cuando la situacion mejore quedamos en hablar si le surge alguna necesidad 
+__label__POSITIVO bueno  luego de varios intentos en varios dias logre hablar con patriciacharlamos un buen rato esta muy bien se arregla bien con las compras de la comida y tambien con sus medicamentos trata de mantenerse ocupada y de no estar quieta se la escuchaba de buen animo y sabia que hacia varios dias que intentaba hablar con ella conversamos tambien sobre sus amigas  como iban llevando esta cuarentena  quede en volver a llamar en los proximos dias 
+__label__NEGATIVO me comento que recibio la caja de alimentos y espera manana hablar con el doctor para resolver el tema de los remedios aun no tiene la receta y hace dos meses que discontinuo el tratamiento  se cayo el sabado de frente y se golpeo la nariz y un ojo y se volvio a caer el domingo de espalda ella sufrio un acv tiempo atras y deberia consultar al neurologo 
+__label__POSITIVO mirta bien su esposo carlos es miembro de la comision de almaceneros faba los domingos se reunen de manera virtual
+__label__POSITIVO hoy hablamos con bety ella esta bien de buen animo  ninguna necesidad urgente a veces un poco cansada del encierro pero lo esta llevando bien 
+__label__POSITIVO estaba muy bien con mucha energia aceptando esta situacion que nos toca vivir esperando la tablet de anses la pidio por su centro de jubilados 
+__label__POSITIVO aguirre esther n estan bien muy cansada del encierro pero bien igual el esposo que se encarga de los mandados 
+__label__POSITIVO hable con el marido de maria esta todo bien
+__label__NEGATIVO en el dia de la fecha me comunico con irma por telefono ya que con ella como con otros am nos mandamos audios diariamente via watsap  hoy aprovecho el sol para dar una vuelta y tb arreglar su jardin y plantas que le encanta  sigue con su terapia y se engancha en todas las actividades que le mando
+__label__POSITIVO siguen bien
+__label__POSITIVO se encuentra bien
+__label__POSITIVO muy buen estado de animo
+__label__POSITIVO se encuentran muy bien y esta preparando un proyecto  para la comunidad 
+__label__POSITIVO vive con su senora y se desenvuelve bien 
+__label__POSITIVO muy buen animo 
+__label__POSITIVO se encuentra de buen humor completamos la encuesta 
+__label__POSITIVO la sra monica se encuentra bien 
+__label__NEGATIVO me comenta la am que le fue bien el martes en la quimio y tambien tuvo la consulta con cirujano para que le pongan el cateter ademas me cuenta que pronto tiene los estudios de control para verificar evolucion del tratamiento 
+__label__NEGATIVO preocupada por tema seguridad recibio llamado de ofrecimiento de seguro para el hogar charla sobre medidas de seguridad 
+__label__NEGATIVO la llamo para ver como esta me cuenta que tuvo problemas con el hijo a la manana y que hablo con su terapeuta temprano que le cuesta levantarse y no ha retomado la pintura no quiere recibir la caja de alimentos porque prefiere que la reciba alguien que la necesite mas y que espera poder salir pronto conversamos un rato y quedo en llamarla en unos dias 
+__label__POSITIVO se encuentra bien
+__label__NEGATIVO _digit_ _digit_ hs estuvo unos dias mal de la panza estaba constipada y con la operacion que ella tiene de intestino es un problema se comunico el hijo por whatsapp con la medica de cabecera para ponerla al tanto y la medico estuvo el fin de semana con angustia como con una sensacion de ataque de panico lo soluciono comunicandose por telefono con su sobrino su hijo y prima de pergamino hoy estaba mejor decidida a tomar un poco de sol en la vereda de su edificio con todas las protecciones y cuidados que corresponden duerme bien 
+__label__NEGATIVO aguirre esther noemi  tiene problemas cardiologicos y esta angustiada  el martes va a ver si la pueden atender en el hospital el esposo bien 
+__label__POSITIVO el sr esta tranquilo cumpliendo la ciarentena
+__label__POSITIVO todo bien sin novedades 
+__label__NEGATIVO todo bien me comento que solicito un turno a pami para control del marcapasos y cuando concurrio al lugar le dijeron que no se hace salvo urgencias
+__label__NEGATIVO hay hablamos esta bien me dijo que rocio la psicologa que la atiende la esta siguiendo para que se controle la presion dado que hace poco mandamos una ambulancia por este tema como hoy se comunicara fue hasta la uap marzano para tomarsela estaba cerrada luego de esperar un rato salio un senora un tanto enojada y le dijo que alli no tomaban la presion matilde tiene _digit_ anos es un paciente de riesgo que salio por un control necesario camino casi seis cuadras para recibir esa respuesta tajante no apruebo el comportamiento de esta sra  le dijo una mentira por cuanto hay enfermeria en ese lugar ni siquiera respeto a una persona mayor  otro tema preocupante para matilde es el estado animico de su hijo se siente mal esta deprimido se siente acomplejado y no sabe que hacer o decir para animarlo creo que podriamos ofrecer un psicologo para el lo voy a solicitar rectifico lo que la sra le dijo fue que no habia enfermera no informo cuando podria volver 
+__label__POSITIVO hable con ella un rato la encontre bien con buen estado de animo 
+__label__POSITIVO les pase el n de la lic mercedes borrajo para que se pongan en contacto y les asista a destrabar el problema con la medicacion del pami vitalia esta en buen estado de animo hoy comio lasana al mediodia y despues se tomo unos mates pareciera estar contenida en este ambito familiar 
+__label__POSITIVO en el dia de hoy mas comunicativo y de buen animo con mas posibilidades de ayuda 
+__label__NEGATIVO la sra esta resfriada pero dice que es porque tomo frio ayer
+__label__POSITIVO con ricardo hablo muy bien pero mas con su senora que su voluntaria la llamo solo _digit_ vez aylen se llamaba la senora llamo a la municipalidad para avisar me estoy ocupando de ambos ya que de casualidad son conocidos mios  de hace muchos anos atras norma marandola se llama la senora
+__label__POSITIVO hable con maria se encuentra muy bien muy animada hoy fue a ver a su doctora la encontro bien el _digit_ _digit_ tiene la proxima quimio
+__label__POSITIVO le llego el bolson de comida esta super contenta
+__label__NEGATIVO la am me cuenta que el martes pasado pudo aplicarse la quimio ya que se resolvio el tema de los papeles de ioma el _digit_ _digit_ tiene turno con su medico para ver como va evolucionando el tratamiento esta ilusionada con ver los resultados este estudio se lo realiza cada _digit_ meses los dos ultimos le dieron bien va averiguar por un cateter porque nunca le encuentran bien las venas -------------------le ofrezco a am talleres online brindados por la sec de cultura de la municipalidad dice que no le interesa que ya realiza actividades de ese tipo por otra via igualmente agradece la propuesta 
+__label__NEGATIVO hablamos de su nieta  la extrana muchisimo y de su familia
+__label__POSITIVO la llame esta bien recibe la visita de sus hijos la ayudan los vecinos no necesita nada 
+__label__NEGATIVO me contacto con teresa a fin de acompanarla dice hoy estar mejor de animo sin perjuicio de contarme que se encuentra angustiada ve con buen grado la posibilidad de contar con asistencia psicologica 
+__label__POSITIVO esta bien de buen humor
+__label__POSITIVO conversamos sobre el estado de tiempo me conto que ea ingeniero agronomo docente de la universidad de cordoba no se siente afectado por la cuarentena lee  que si se olvido una palabra como se escribe va a sus diccionario le pregunte por sus filtraciones dijo que se subio al techo y le puso una silicona y vera como funciona  le pregunte por susana me contaba que con el frio estaba mas dolorida de sus hombros pero que estaban bien 
+__label__NEGATIVO nelida me cuenta muchas historias esta cansada y triste x el encierro consulta con su psicologo
+__label__POSITIVO muy buen estado de animo intercambiamos el gusto por la huerta 
+__label__POSITIVO se encuentra bien
+__label__POSITIVO estan muy bien llamo la semana proxima
+__label__NEGATIVO olga esta muy dolorida de sus piernas y se encuentra en reposo
+__label__NEGATIVO hable con el marido ella en este momento esta internada por posible contagio el aislado en su casa por el momento no necesitan nada ni tampoco quiere que lo llame deje mi numero por si necesita algo en algun momento 
+__label__NEGATIVO le pregunte si se habia podido vacunar como me conto en el encuentro anterior y me dijo que habia ido ayer previo llamado como le dijeron par asegurarse de que hubiera vacuna y despues de tomar colectivo hasta acervil cuando llego le dijeron que no habia mas   muy afligida me dice que le dijeron que llame el lunes y tambien averiguo en el centro odontologico y en una farmacia de sargento cabral y le dan las mismas repuestas que no hay o se acaban  su realidad es que tiene que viajar para llegar temprano y tomar frio no esta encontrando una solucion y que va llamar pero no se va a arriesgar a tomar frio  
+__label__POSITIVO esta bien hoy esta de mejor animo
+__label__POSITIVO hable con maria del carmen y esta bien y martina esta mejor de la pierna manana ve al medico
+__label__NEGATIVO despues de varios intentos logre comunicarme con la sra rosa hablamos durante _digit_ minutos el tel no tiene sonido me habla de ella de su familia y vecinos extrana no poder salir hacer las compras pagar los impuestos lo ayuda el esposo de su hija exrana su nieto su perrita por su salud no lo pude tener
+__label__POSITIVO generalidades cuidados hijos ocupaciones compras estado de animo general me saluda el marido que recibio un primer contacto de otro voluntario y no mas larga charla en la que se advierte que esta bien tranquila y tomando la situacion con tranquilidad 
+__label__POSITIVO esta bien animo pacte nueva llamada agradece la entrega del bolson alimentario
+__label__NEGATIVO refiere su pareja norta que el fue a buscar alimentos en hipolito yrigoyen _digit_ y no quisieron darle que lo sacaron sumbando la mujer nora es quien habla siempre conmigo refiriendo cada vez que llamo que el no esta y suele enojarse con ella si le cuenta de mi llamado 
+__label__POSITIVO am indica que se encuentra bien tiene a su hijo y a su nuera que le asisten y dice que no requiere que le volvamos a llamar 
+__label__POSITIVO maria se encuentra muy en su casa sin novedad se la escucha mu bien y asinlo manifiesta  
+__label__POSITIVO la note muy bien fue a la peluqueria si q estaba contenta noto un cambio desde la primera vez que la llame esta mas animada y con ganas de hacer cosas 
+__label__POSITIVO la sra olga esta muy agradecida con los talleres y el apoyo brindado por el municipio
+__label__POSITIVO llamado de presentacion se encuentra bien no quiere que la llamen muy seguido sino cada tanto tiene asistencia de los hijos 
+__label__POSITIVO todo ok
+__label__POSITIVO bien de animo
+__label__POSITIVO necesitan remedios derivo a desarrollo social se tiene que vacunar
+__label__POSITIVO se encuentran bien de animo seguire llamando
+__label__POSITIVO muy bien de animo haciendo una estanteria en madera descansa bien se alimenta bien y se entretiene con sus perros
+__label__POSITIVO esta bien 
+__label__NEGATIVO hoy se la escucho bien de animo a pesar de la salud de su marido la situacion va mejorando de a poco cuesta sacarle conversacion pero a pesar de eso es muy amable 
+__label__POSITIVO estaba ocupada en ese momento pero se encontraba bien no necesitaba nada 
+__label__POSITIVO la senora se encuentra bien me conto qye acompana al marido al hospital porque esta con un tratamiento pero que le da un poco de miedo salir a la calle le mande por su wassap unos ejercicios para hacer con las manos que trata el deterioro cognitivo y estaba muy contenta y agradecida 
+__label__NEGATIVO guillermo se encuentra bien extrana mucho a sus hijos esta tratando de incluir y realizar actividades fisicas ya que esta con dolores de espalda y continua con sus actividades de pintura y musica en su hogar
+__label__POSITIVO hoy tuvimos con eduardo nuestra tercera charla todo genial
+__label__POSITIVO recien terminaba con su clase de pintura que le dieron pautas nuevas estaba muy contenta con eso ayer se vacuno la atendieron super bien tenia solo _digit_ personas unicamente adelante y la organizacion genial me conto que lo unico que le queda hacer ahora es solo bajar hasta la puerta a recibir sus compras online jajjaja y nada quedarse en casa me conto de sus retratos y las tareas que le dieron en base a esos retratos y todas las cosas nuevas que tenia que hacer y de todo un poco conversamos unos _digit_min quedamos en hablar el _digit_ _digit_ 
+__label__NEGATIVO hablamos mucho me contaba muchas historias de su pasado en un momento me decia que esta abandonada ya que estaba sola tiene una hija en rio negro y un hijo en mexico pero quedo contenta con la charla 
+__label__POSITIVO con mucha actividad y sin problemas
+__label__POSITIVO hoy estaba mucho mas comunicativa estuvo comentandome que habla una vez por semana con el grupo de la iglesia se la encuentra muy bien de animo
+__label__NEGATIVO se encontraba bien aburrida pero cuidandose me conto como estaba su familia su esposo y su nieto me conto como estaba su hija que se encuentra internada ya que esta enferma de cancer terminal que no estan pudiendo verla pero que se siente comoda ya que la gente de ese lugar es muy amorosa me conto de su perro que estaba con laganas la llevaron al veterinario por suerte no era nada pero le estan haciendo el tratamiento y limpiandole con unas gasas 
+__label__POSITIVO nuevo adulto incorporado a mi lista no se llama carlos sino miguel cuando dije de donde llamaba me lo pasaron porque casi me cortan por pedir por alguien equivocado miguel vive con su familia esta contenido y ya se ha vacunado se protege con barbijo y todo los elementos de higiene ningun problema para que lo vuelva a llamar 
+__label__POSITIVO se contacto a la persona _digit_ _digit_ hs informo que dentro de todo la esta pasando bien buscando pasa tiempos que no necesita nada ya que tiene quien la asista informo que vive con su hermano por el momento y quedamos en volver hablar a modo de charla amena
+__label__POSITIVO buen dia informo que los adultos mayores estan muy bien contenidos hablamos diariamente o dia por medio gracias
+__label__NEGATIVO sin cambios  sigue preocupada 
+__label__POSITIVO me comunico con elsa quien me dice que esta bien que quedo muy agradecido de la caja no esta necesitando nada mas por ahora quedamos en ver para la semana proxima como hace con la caja nuevamente pero en si esta muy bien y agradece el contacto
+__label__POSITIVO animada hablamos via whatsapp me conto que esta con sus nietos esta semana esta feliz
+__label__POSITIVO irene se encuentra muy bien solo hablamos para saber si necesita algo con urgencia ella esta de muy buen animo
+__label__NEGATIVO _digit_ _digit_ _digit_ la sra ana me informo que contrajo el covid_digit_ al igual que su esposo esta controlada y en reposo en su domicilio respondio la encuesta
+__label__POSITIVO estaban por cocinar y regando sus plantas  no se dio la vacuna aun no tienen en su farmacia pero para la semana que viene ya le confirmaron que si va a ir en remis ida y vuelta ya que tiene movilidad reducida me conto que su hija sigue trabajando ya que trabaja en la municipalidad y estan haciendo guardias asi que iba aprovechar y le iba a retirar el sueldo ella para que no tuviese que salir al banco hablamos _digit_min quedamos que volver a hablar el _digit_ _digit_
+__label__POSITIVO ayer _digit_ _digit_ recibi el llamado de pablo el hijo de matilde dias atras lo llame para advertirle el riesgo que corre en la calle haciendo mandados para todo el barrio es inteligente tiene _digit_ anos comprende lo que le digo pero siente afecto por esas personas que ayuda aconseje que fuera solo una vez por semana y que le hagan un pedido semanal no es posible que lo llamen cada vez que se olvidaron de comprar algo entendio ayer me llamo para decirme que no salio porque llovia que se estaba cuidando que penso lo que le dije y va a ponerlo en practica 
+__label__POSITIVO maria del carmen esta siempre positiva hoy llame por la vacuna fue dos veces al capps llovera le dijeron que no habia hable con la dra rita ella me informo que no habia vacunas no sabian cuando llegaban cuando lleguen van a continuar con el numero que le toca ese dia y cuando termine van a comenzar con las personas que no se vacunaron le informe a la sra agradecio por ocuparse de ella
+__label__POSITIVO hable con leticia se encuentra bien ayer la llame y no me atendio hoy la llame y tampoco parece que le funciona mal el celular de todos modos mas tarde logre comunicarme 
+__label__POSITIVO la senora beatriz dib se encuentra bien
+__label__POSITIVO me atendio como si me conociera de toda la vida me dijo que esta haciendo limpieza en la casa porque ya no sabe que hacer para pasar el tiempo ademas esta refaccionando el piso del patio y le estaban por traer baldosas nuevas se lo noto muy bien y me comento que apenas lo dejen quiere ir a su casa de la costa porque no quiere dejar que el pasto crezca y se haga una selva bromeando a pesar de estar aburrido se las ingenia para pasar el tiempo quiere salir para ir a caminar al parque sarmiento algo que hacia seguido me conto que practicaba taekwondo y que me iba a ensenar en algun momento siempre haciendo bromas se lo noto muy bien de animo 
+__label__POSITIVO todo en orden - muy agradecida
+__label__POSITIVO hoy manuel me llamo para decirme que lo habian llamado de la municipalidad para regalarle una tablet me pidio que le averigue si esto era cierto hice unos llamados y le confirme que era verdad volvio a llamarme mas tarde para decirme que el concejal jorge martinez le llevo la tablet estaba muy contento y me agradecio la preocupacion 
+__label__NEGATIVO esta bastante estable tiene su marido internado en un geriatrico y eso le genera mucho malestar ademas de no poder ir a verlo necesitaria en estos momentos que una profesional la asista 
+__label__POSITIVO me he comunicado con ella tanto el dia _digit_ _digit_ como en el dia de la fecha no requiere asistencia particular muy participativa 
+__label__POSITIVO hable con elsa lo encontre bien de animo me paso el mail que no lo sabia en el contacto anterior 
+__label__NEGATIVO me conto que estuvo con problemas de salud fue al medico le hicieron una tomografia esta esperando los resultados vuelvo a comunicarme el lunes para que me cuente como le fue 
+__label__POSITIVO me llamo la sra rastelli para enviarme informacion de textos biblicos tiene buen animo muy amable no necesita nada tienen a los hermanos de su congregacion que la asiste muy positiva y optimista 
+__label__POSITIVO todo en orden 
+__label__NEGATIVO esta en su domicilio su nuera esta bien en recuperacion por operacion ella inicia estudios prequirurgicos por biopsia ginecologica 
+__label__POSITIVO realise el llamado el y su esposa se encuentran bien de animo el se entretiene realizando tareas en un pequeno taller que tiene en su casa y realiza las compras su esposa hace las cosas de la casa y tambien realiza yoga por video llamada quede en llamarlos todas las tardes para ver como siguen y si tiene alguna inquietud me la comuniquen para ver si se lo podemos solucionar
+__label__POSITIVO tome contacto con ella en el dia de la fecha se encuentra bien acompanada por su familia  no requiere asistencia particular muy dispuesta
+__label__POSITIVO hable con beatriz ninguna situacion urgente ella esta bien de animo charlamos un rato  ella vive con su hijo estamos en contacto siempre por cualquier urgencia
+__label__NEGATIVO estuvimos hablando un buen rato de su vida dentro de lo que conversamos me conto que cobra la minima y que cuando se fijo cuanto tenia depositado solo fue $_digit_ iba a tener que volver a salir para ver si le depositan mas su hija la ayuda economicamenta ya que la jubilacion minima no le alcanza 
+__label__NEGATIVO la sra se encuentra bien un poco caida de animo ya que esta realizandose unos estudios neurologicos su hija la acompana mucho  nuevamente le ofreci que se comunique conmigo por cualquier urgencia que tenga o por el motivo que sea necesario ella tiene mi numero de telefono actualmente me encuentro con mucho trabajo y me es dificil comunicarme seguido le ofreci otro voluntario y me dijo que asi estaba bien y que cualquier cosa se comunicaria conmigo le brinde tambien la info sobre la eximicion del abl 
+__label__POSITIVO se encuentrtan bien de animo y contenidos por la familia sigollamndo
+__label__POSITIVO me oidio mi celular por si necesita algo de apoco esta entrando en confianza conmigo
+__label__POSITIVO siguen bien
+__label__POSITIVO bien sin novedades
+__label__POSITIVO se encuentra bien
+__label__POSITIVO animada esta entusiasmada con la entrega de la tablet
+__label__POSITIVO bien de animo concurre al oculista por la tarde 
+__label__POSITIVO la sra se encuentra bien la estan ayudando los hijos y por el memento no necesita nada 
+__label__NEGATIVO hable con hijo maximiliano quien vive con su madre en la casa estan bien de salud solo agobiados por el encierro reciben en comedor de berutti la caja de alimentos de modo quincenal su hija de _digit_ anos cursa primer grado y hace tareas en la casa por telefono -
+__label__POSITIVO jueves _digit_ _digit_ - charlamos via whatsapp - buen animo sigue contenida por su familia se encuentra activa agradece el contacto domingo _digit_ _digit_ - la llame a su telefono fijo no saludamos x pascuas me manifesto que agradecia los contactos pero estaba asistida permanentemente x sus hijas 
+__label__POSITIVO todo en orden
+__label__POSITIVO siguen en la isla dice que se encuentran bien en la naturaleza
+__label__POSITIVO estaba mirando una pelicula  se encuentra muy bien tranquila y contenta que la llamo cada tanto 
+__label__POSITIVO agradece el llamado
+__label__POSITIVO susy esta entretenida con sus novelas turca dice que son muy buenas  me las recomienda 
+__label__POSITIVO hable con beatriz ella se encuentra bien ninguna necesidad urgente ella esta permanentemente asistida por su hijo 
+__label__POSITIVO comunicacion telefonica el matrimonio se encuentra de buen animo 
+__label__POSITIVO reitero estan todos muy bien pero solicita bolson de comida
+__label__NEGATIVO todo bien preocupada por el tema economico
+__label__POSITIVO conversamos una hora y pico esta muy agradecida por los llamados y manifiesta gracias por estar
+__label__POSITIVO se encuentra bien y sin necesidades por el momento se pacta llamado dentro de unos dias 
+__label__POSITIVO esta mucho mejor mas animada mas contenta visita a su sobrina nieta que adora todo ok
+__label__POSITIVO en el dia de la fecha me comunico con mirta con quien siempre es muy lind hablar ya que es una persona super simpatica y activa me cuenta siempre algo de su vida  de sus nietos y de todo lo que hace cuando los dias estan lindos 
+__label__NEGATIVO estaba un poco mas tranquila su medica la derivo a una psicologa y esta en contacto con ella hablo con un diacono de la iglesia estaba contenta porque el hermano la habia llamado
+__label__POSITIVO me volvi a comunicar con ramon se encuentra bien muy contento de hablar conmigo 
+__label__POSITIVO me dijo que ya habia recibido la caja de alimentos y que esta muy bien en su nueva casa 
+__label__POSITIVO se encuentra bien de animo teje yy se comunica con sus familiares por wasap
+__label__NEGATIVO me comunique con la mujer de eldemiro la senora se llama angela francisca rodriguez se siente muy decaida necesita acompanamiento psicologico 
+__label__POSITIVO muy bien de salud sin problemas
+__label__POSITIVO se encontraba bien no pudimos hablar mucho por que justo le llegaron las compras online de coto quedamos en hablar mas tarde o ya el _digit_ _digit_
+__label__POSITIVO hable con su hija ya que ella se encontraba durmiendo me conto que estaba terminando sus antibioticos y habia mejorado el finde se le murio el canario y la familia le trajo otro y se sintio mejor a pesar de la perdida y se entretiene acostumbrandose a el 
+__label__POSITIVO la senora ana slaukin se encuentra bien junto a su marido 
+__label__POSITIVO estaba cuidando al nieto y se sentia mucho mejor
+__label__NEGATIVO es un paciente de riesgo tiene que darse la vacuna neumonia _digit_ su hija recorre hace meses varias salitas y no la consiguen 
+__label__POSITIVO hablamos se encuentra bien no quiere hacer ninguna actividad de las que ofrece la muni no posee mail 
+__label__POSITIVO se entretiene haciendo cosas de la casa lavando cocinando dice que esta bien y tranquila quiere salir pero le da miedo asi que se queda en casa 
+__label__POSITIVO paciente oncologico esta bien pero a veces necesita convesar  le deje mail y telefono de atencion psicologica 
+__label__NEGATIVO la hermana ernestina y se encuentra en silla de ruedas no recibio la plata del bolson de pami su telefono es _digit_-_digit_ ademas se realizo el llamado de despedida 
+__label__NEGATIVO hable con esther estar mejor de animo le interesa tomar clases de yoga sentada ya que no tiene mucha movilidad no tiene computadora le gustaria recibir una tablet gratis
+__label__POSITIVO me comunique en el dia de hoy la senora graciela se encuentra bien 
+__label__NEGATIVO habiamos acordado ayer hablar hoy para coordinar la compra de pan manana me llama hoy diciendo que me esta esperando le comento en lo que habiamos quedado y me corta la llamo mas tarde y me cuenta que llamo a la municipalidad para quejarse de mi incumplimiento me expresa que no comio porque iba a comer solo pan cuando el dia anterior me lo menciono como un simple gusto personal le explico el malentendido y me ofrezco a seguir asistiendola quedamos en realizar esa compra manana y estar presente para controlar un pedido de alimentos que le llega al domicilio me menciona que desconfia de la ayuda que se le ofrece en caso de no contar con las herramientas necesarias para comunicarme y entenderme con ella solicitare ayuda para que reciba la asistencia que necesite 
+__label__POSITIVO todo bien sin novedades
+__label__POSITIVO esta muy bien pinta y se la escucha muy contenta 
+__label__POSITIVO angela es muy amable nos cuenta que esta entretinada  vive con su esposo se la nota bien de animo la contactaremos a fin de mes nos dijo que le llego la caja desp del llamado 
+__label__NEGATIVO me atendio cortante y diciendo que ya la atiende su hjjo y que no necesita nada
+__label__POSITIVO esta muy bien
+__label__POSITIVO siguen bien
+__label__POSITIVO la senora beatriz dib hoy se encuentra bien la llamaron de la municipalidad para preguntarle si habia recibido la caja de alimentos y ella les contesto que la recibio el viernes pasado 
+__label__POSITIVO se encuentra bien
+__label__POSITIVO se encuentra muy bien
+__label__POSITIVO buen estado general bien de animo ocupada activa no requiere asistencia al momento vive sola pero no tiene problemas que requieran ayuda 
+__label__POSITIVO se encuentra bien no quiso hablar mucho dijo que estaba descansando
+__label__POSITIVO llame a la senora esta muy conforme con la psicologa ya que pudo hablar con ella se siente mas contenida le comunique sobre la ayuda de alimentos lo cual va acercarse 
+__label__POSITIVO va a hacer tramite para excimicion abl esta bien 
+__label__POSITIVO el am fue informado en el dia de la fecha la eximicion de abl para jubilados y pensionados personas con discapacidad y ex combatientes llamando al _digit_ el am encuentra en buen estado general saludos cordiales
+__label__NEGATIVO me cuenta que tuvo un problema con una vacuna que pasaron por su casa y penso que podia ser un caso de los que entran a robar y que tuvo un ataque de nervios despues se paso y hablo con su hermana que trabaja en un centro de salud primaria del municipio la hermana va a intentar que vayan de nuevo despues charlamos bastante agradecio el llamado 
+__label__POSITIVO conversamos en general  hablamos del dia del vecino  se encuentra dentro de todo con animo 
+__label__NEGATIVO hoy logre comunicarme y me conto que su nuera estuvo enferma de dengue ya esta dada de alta y nuevamente en su trabajo ella y su familia se encuentran bien
+__label__POSITIVO se encuentra muy bien
+__label__POSITIVO esta bien contenta con el llamado ella me propone cuidarnos del frio y se abriga y se queda dentro de casa 
+__label__POSITIVO esta temerosa porque manana tiene que ir avacunarse y sair  le di todas las indicaciones de prevencion y se quedo mas tranquila
+__label__POSITIVO charle con el sr un ratito se encontraba tranquilo y estaba por tomar mate con torta fritas
+__label__POSITIVO todo en orden
+__label__NEGATIVO en el dia de ayer lunes feriado hablamos mucho con susi ella esta bien un poco desanimada me pido si podia comprarle una bolsa de agua ya que la suya se rompio le dije que no haba problema que la compraria y se la llevaria en esta semana 
+__label__NEGATIVO leticia fallecio hace un ano tuve una larga conversacion telefonica con su hija eliana vive con su padre jorge buttaro que a raiz de la muerte de su esposa se encuentra deprimido y se le acelero la enfermedad de parkinson me pidio seguir en contacto ya que le hizo bien la conversacion 
+__label__POSITIVO angela bien preparando la comida para compartir con su hija que viene ayudar
+__label__POSITIVO todo bien sin novedades
+__label__NEGATIVO todo en orden discutio con la hija quizas mas adelante me pide por apoyo psicologico 
+__label__POSITIVO me comunique con cipriana a quien se la nota muy animada por el momento no tiene ninguna necesidad le pase todos mis datos y me pidio mi numero de celular para que cuando necesite algo se pueda comunicar conmigo 
+__label__POSITIVO esta muy agradecida por el apoyo y contencion que le esta brindando la psicologa natalia folgar 
+__label__POSITIVO todo bien
+__label__POSITIVO converse unos minutos con su hijo estan muy bien y agradecidos
+__label__NEGATIVO esta mejor sigue con la recuperacion de la operacion 
+__label__POSITIVO se encuentra bien vive con su hijo y marido y esta asitida 
+__label__NEGATIVO el am malatesta nelida hoy se encontraba con algunas molestias fisicas la senora consulto telefonicamente a su medico 
+__label__POSITIVO todo bien
+__label__POSITIVO se encuentran bien 
+__label__POSITIVO se habla con elba todo bien esta en contacto con el sobrino constantemente vive a _digit_ cuadras y la asiste -
+__label__POSITIVO agradece el contacto pero dice que no necesita ningun tipo de asistencia que no hay nada que necesite y que en caso de haberlo se va a comunicar con nosotros 
+__label__POSITIVO los encontre con un buen estado animico siguen cumpliendo la cuarentena informandose mediante las noticias 
+__label__POSITIVO esta bien tanto el como su esposa 
+__label__POSITIVO siguen bien
+__label__POSITIVO todo bien
+__label__POSITIVO la senora ines flores se encuentra bien 
+__label__POSITIVO zusana estaba contenta porque vio a los nietos la nuera le llevo los _digit_ nietos a la casa se levanto con otro animo miro la misa del padre ignacio de rosario que es quen la ayudo cuando por las diabetes casi queda ciega se va a tenir sola baldeo junto las hojas tenia otro animo 
+__label__POSITIVO se encuentra bien  ya se curo de la queratitis agradece el llamado
+__label__POSITIVO continuando con el acompanamiento la senora se encuentra muy bien
+__label__POSITIVO todo bien
+__label__NEGATIVO esta mas animada por los dias con sol y buen clima su rodilla mejora y esta en compania de los bisnietos y sus nietos la note mas feliz y entusiasmada por charlar extrana mucho a su hermana que no ve desde que empezo la cuarentena 
+__label__POSITIVO le pregunte como estaba estaba bien su hija le habia comprado hacia poco todo lo necesario 
+__label__POSITIVO esta bien por almorzar cuidandose del frio agradece el llamado 
+__label__NEGATIVO angustiada por la cuarentena 
+__label__POSITIVO me conto que estaba trabajando con la inmobiliaria familiar con el tema de los pagos me dijo que estaba bien que hoy le dijo al marido que cocinaba ella por que el cocina siempre por que cocina bien y le gusta pero cocina pura verduras y a ella no le gustan asi que hizo una buena polenta me conto que a ella le gusta mucho brasil buzios especialmente me dijo que cuando pueda aproveche a ir a conocer hablo con su nieta por el celular asi que estaba muy contenta me conto que tuvo problema con unos arboles de la casa que encima se lo habia cortado adenor hace muchos anos que tuvo que ir al tribunal de faltas por que le habian hecho una causa pero lo pudo solucionar estuvimos hablando _digit_min 
+__label__NEGATIVO animada me cuenta que extrana a su hijo
+__label__NEGATIVO me comunique y me esta diciendo que necesita con urgencia una resonancia y pami se la da recien para dentro de dos meses
+__label__POSITIVO conversamos un monton con graciela nada que ver a los primeros llamados se la siente con mas confianza y soltura se encuentra bien ya se le paso el malestar que tenia en la mandibula esta tranquila de buen animo me conto del nieto que vive con ella de otra nieta que tiene _digit_ anos y le gusta pintar hablamos del medio ambiente de alguna noticia que escucho en la tele de los colegios  de anecdotas nuestras 
+__label__POSITIVO la senora nelida malatesta se encuentra bien 
+__label__POSITIVO se la encuentra bien de humor 
+__label__POSITIVO ayer _digit_hs me contacte con rosa por whatsapp  enseguida respondio que esta muy bien y que no necesita nada por ahora le recorde no salir y que ante cualquier consulta soy oferta 
+__label__POSITIVO se encuentra bien ella y su familia
+__label__POSITIVO se encuentra bien completamos la encuesta 
+__label__POSITIVO el am dib beatriz dni _digit_ se encuentra bien 
+__label__POSITIVO liliana bessone se encuentra muy bien es muy cordial 
+__label__POSITIVO el am se encuentra en buen estado de animo y bien asistido x sus dos hijos qe conviven con el a m  
+__label__NEGATIVO la am me cuenta que ayer pudo hacerse la quimio averiguo para ponerse un cateter porque siempre cuesta encontrarle las venas tiene turno para el _digit_ _digit_ como se hizo el control en marzo el medico le dijo que espere a fines de junio para hacer nuevo control 
+__label__POSITIVO _digit_ _digit_ jaime me comenta que se encuentran bien y me pregunta si le corresponde una bolsa de alimentos por cobrar jubilacion minima  envie mail para averiguar  me cuenta que su esposa se bajonea por las tardes pero comenzo a tejer  charlamos de posibles actividades para distraerse de cordoba y su hijo y acordamos un nuevo llamado para el lunes 
+__label__POSITIVO llamado de contencion esta bien de animo por suerte mucho mejor que la semana pasda
+__label__POSITIVO esta muy bien y me volvio a pedir mis datos
+__label__POSITIVO se encuentra bien su animo es saludable le pase info que me pidio para su nieta estaba muy agradecida 
+__label__POSITIVO esta bien de animo agradece los llamados y la compania
+__label__POSITIVO se pacta llamado nuevamente para dentro de unos dias se encuentra bien de salud y unos vecinos le pudieron hacer las compras 
+__label__POSITIVO charlamos del clima tiene mucho frio pero esta de buen humor  mira la tele peliculas viejas y es muy alegre 
+__label__POSITIVO se encuentran bien siguen en la isla no piensan venir hasta que no termine la cuarentena
+__label__POSITIVO refiere estar muy bien no se bajonea se dio las _digit_ vacunas cerca de su casa en una farmacia y es para lo unico que salio su hijo se encarga declas compras
+__label__POSITIVO todo bien sin novedades re agendamos para hablar el jueves _digit_ 
+__label__POSITIVO se encuentra bien no quiso hablar mucho
+__label__POSITIVO hable con maria se encuentra bien con menos dolores la note con poca fluidez al hablar entonces le pregunte por la television italiana que tanto le gusta resulto ser que justo la llame cuando estaba mirando uno de sus programas favoritos y no se animo a decirme quedamos en volver a hablar en otro momento asi ella podia terminar de verlo 
+__label__POSITIVO se encuentra muy bien
+__label__NEGATIVO estaba un poco angustiada por el encierro pero charlamos un rato largo y la senti mejor de animo 
+__label__POSITIVO se encuentra de buen animo 
+__label__NEGATIVO me llamo la hija de jose para avisarme que lo habia llevado al hospi porque no se sentia bien lo llame para saber que le habian dicho y me dice que lo dejaron internado
+__label__POSITIVO _digit_ _digit_- maria del carmen bien preparando la comida para la semana _digit_ _digit_- maria del carmen bien decidio no abrir el negocio a partir de manana para cuidarse debido a la cantidad de contagios que hay 
+__label__POSITIVO hable con maria y esta muy bien
+__label__NEGATIVO sigue bien pero esta cansada de la cuarentena quiere trabajar necesita conseguir la vacuna neumo_digit_ y no esta pudiendo en las farmacias de la zona la esta buscando de abril 
+__label__NEGATIVO angela bien digamos que bien es lo que dice me comeno que la vacuna vamos a tener en enero _digit_
+__label__POSITIVO la encontre bien animicamente me conto sobre un programa que vio en la tele el fin de semana 
+__label__POSITIVO se encuentra bien
+__label__POSITIVO me comunique con ella los dias _digit_ _digit_ _digit_ _digit_; el _digit_ _digit_ el _digit_ _digit_ el _digit_ _digit_ y en el dia de la fecha muy comunicativa y atenta no requiere asistencia particular
+__label__POSITIVO la senora beatriz dib se encuentra bien 
+__label__NEGATIVO bien de animo esta preocupada por la falta de atencion de su endocrinologa la dra antonelli  en la cual confia totalmente en los consultorios externos del geriatrico municipal segun le informan no hay fecha de apertura de agenda 
+__label__NEGATIVO diabetica hija los asiste me comento algunos inconveniente para sacar turnos en el hospital le recorde la linea _digit_ de atencion al vecino para consultas solicitudes vuelvo a llamar en un par de semanas
+__label__POSITIVO se encuentra bien me conto que ya tiene los anteojos nuevos esta muy contenta pero todavia no consiguio turno c la dentista 
+__label__POSITIVO bien de animo la visita al medico es el jueves se traslada de florida a olivos con remis l
+__label__NEGATIVO se realizo en el dia de hoy una nueva llamada a la sra luisa veron como parte del seguimiento hacia su estado de salud y relevamiento de necesidades en materia de salud me comento que ayer le subio la presion pero hoy la bajo y la tiene controlada de estado emocional estaba mas caida pero levanto su animo progresivamente con la charla se le tomo los datos nuevamente para pedir y solicitar la necesidad alimentaria se le llamara nuevamente en esta semana para ver su estado de salud y emocional 
+__label__POSITIVO charlamos un rato se encuentra bien  se duplico la accion 
+__label__NEGATIVO marta se encuentra bien preocupada por la situacion pero bien en general 
+__label__NEGATIVO me comento que tiene algunos problemas con la hermana que tiene problemas de salud con la cuarentena la pedicuria no esta autorizada y tiene las unas muy largas y se le encanan llame al _digit_-_digit_ y me pasaron el nro de pami en ningun caso se puede autorizar pedicuria solo si se le llega a infectar puede llamar al medico clinico a domicilio 
+__label__POSITIVO maria del carmen bien hizo una rica salsa para los noquis que almorzo hoy
+__label__POSITIVO hable con el esposo me dijo que estan bien quedamos que una vez a la semana me comunicaba con ellos 
+__label__POSITIVO marta esposa atiende el llamado   los hijos los asisten no necesitan ayuda por el momento 
+__label__POSITIVO en perfecto estado
+__label__POSITIVO mirta y su esposo contentos el fin de semana estubieron con su nieto de _digit_ anos y medio con todos los cuidados para ellos y el nene
+__label__POSITIVO esta con dolor de rodilla - acostada - le gusta mucho q la llame
+__label__POSITIVO primer contacto telefonico _digit_ min  a medida que entraba en confianza el am iba dando mas lugar a la charla y compartiendo datos pudimos conversar tranquilamente y conocernos en general su estado de animo es bueno sufre de artrosis y su principal preocupacion es no poder comprar los medicamentos 
+__label__POSITIVO la senora ines flores se encuentra buien 
+__label__NEGATIVO angustiada por todo lo que esta pasando ayer estuvo llorando 
+__label__NEGATIVO la senora esta un poco agresiva dice que lo unico que le importa es cuando le van a mandar las boletas de abl me hace preguntas de tipo administrativo municipales y al no poder responderlas desconfia de mi
+__label__POSITIVO se encuentra bien y de muy buen animo 
+__label__NEGATIVO se encuentra bien sigue realizandose el tratamiento por su boca el cual la termina dejando muy cansada y algunos dias muy dolorida pero contenta que pudo continuar con el pese a toda la pandemia y que cada vez falta menos para poder terminarlo me mando muchas bendiciones que me cuide mucho que me agradece por ser tan buena con ella y siempre acordarme de ella 
+__label__POSITIVO se encuentra bien
+__label__POSITIVO estaban bien tenian resueltas las compras y otras cuestiones basicas a traves de delivery y ayuda de conocidos 
+__label__POSITIVO siguiendo con los llamados la senora se encuentra muy bien de salud y animo
+__label__POSITIVO llamada y atencion correcta en el dia de hoy estan muy bien y alegres
+__label__NEGATIVO me atendio muy cordialmente marta contandome que vive con la hija y el yerno y ademas en la casa de adelante viven los consuegros por otro lado en sus tiempos libres cocina para la panaderia que tiene la hija y cuida a los nietos extrana mucho el trabajo ella cuidaba a abuelos y la mayor parte de su tiempo la pasaba ahi de lunes a viernes  me recalco muchas veces la necesidad que tiene de volver a trabajar de tener una rutina de estar ocupada se mudo con la hija ya que no podia pagar el alquiler ademas de cocinar le gusta escribir en cuanto a las compras y necesidades la hija se encarga de todo se la noto muy indignada con la extension de la cuarentena y con el recorte de derechos tal como salir a caminar o subirse a un colectivo mas alla de eso siempre se manifesto de buen humor y hasta incluso riendose mucho 
+__label__POSITIVO hable con la hija de la am recien regresaba de cobrar a jubilacion de su madre se encuentran todos muy bien menciona que en el dia de ayer recibieron un bolson de comida estan muy agradecidos 
+__label__POSITIVO vie _digit_ _digit_ _digit_ _digit_ hs - siempre atiende el ex esposo que pasa la cuarentena alli me refiere que estan bien no necesitan nada la senora que tiene algunas enfermedades tiene la medicacion necesaria y las toma con regularidad la hija esta tambien en el hogar y los asiste con las compras de alimentos es muy amable en la charla y nunca en ningun llamado mostraron problemas o angustia 
+__label__POSITIVO me comunique con emilia se encuentra bien de salud y animo conversamos sobre la necesidad de usar cubre boca nariz y menton la restriccion a circular para adultos mayores de _digit_ anos de caba y sus necesidades diarias manifesto encontrarse acompanada y tener familiares cerca que se ocupan de sus necesidades acordamos nueva llamada en unos dias 
+__label__POSITIVO se encuentra bien me pidio ayuda para poder resolver un problema que tuvo con una facturacion del abl asi que la asesore y brinde los numeros necesarios para que pueda comunicarse y sacarse todas las dudas le comente que ya le habia realizado la solicitud de la caja de alimentos nuevamente me agradece mucho la ayuda y compania
+__label__POSITIVO llamo siendo las _digit_ _digit_ horas me atiende el marido de lidia ella se esta banando en este momento me cuenta que estan bien que aunque estuvieron solos el dia del padre los hijos se acercaron lo saludaron y le dieron regalos  le pregunto por el tema de su hija que estaba con sintomas gripales y me dice que por suerte fue solo eso y nada mas los tenia muy preocupados ese tema le informo sobre el tema de la vacuna para la neumonia y la paso los datos de la u a p sgto cabral en donde en estos momentos cuentan con pocas dosis me dice que va a ir manana a aplicarsela le dejo saludos para su esposa agradecen el llamado y la informacion estan cuidandose mucho especialmente ahora que hace frio quedamos en contactarnos la proxima semana 
