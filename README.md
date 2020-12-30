@@ -1,4 +1,4 @@
-# Construcción de un clasificador automático de reportes sobre la situación de Ancianos Mayores en el Municipio de Vicente López
+# Construcción de un clasificador automático de reportes sobre la situación de Adultos Mayores en el Municipio de Vicente López
 
 ## Objetivos
 - Entrenar un modelo que permita automatizar el taggeo de reportes en texto crudo elaborado por voluntarios del Municipio de Vicente López
